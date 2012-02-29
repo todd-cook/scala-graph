@@ -1,0 +1,72 @@
+package com.cookconsulting.scala.graphing;
+
+/**
+ *  
+ * @author : ToddCook
+ * @since : 2/22/12 12:08 PM
+ */
+
+
+import org.scalatest.junit.AssertionsForJUnit
+import org.junit.Test
+import scala.Int;
+import scala.collection.mutable.ListBuffer
+import org.junit.Assert.assertEquals
+import java.io.File
+
+import java.util.Stack;
+
+
+/**
+ * @author todd
+ * @since 9/12/11 10:22 PM
+ */
+
+class CircuitTest extends AssertionsForJUnit {
+
+   def howLong (connects:List[String], costs:List[String])={
+    var g = new Graph()
+    Iterator.range(0, connects.length - 1).foreach(x =>{
+        var n = new Node(new Point(x))
+    Iterator.range( 0, connects(x).split(" ").length ).foreach(
+    y =>{
+        var e = new Edge(new Point(x), new Point(connects(x).split(" ")(y).toInt ))
+        e.setCost (costs(x).split(" ")(y).toDouble)
+        n.addEdge(e)
+    })
+        g.addNode(n)
+    })
+
+    var r = dfsMaxChain (g.getNodes)
+            println (r)
+      r
+    }
+
+    def dfsMaxChain  ( nodes:List[Node]) :Int ={
+
+        var n = nodes(0)
+        var stack = new Stack[Node] ()
+        stack.push(n)
+//                while(!stack.empty()){
+//                    var top = stack.top();
+//                    stack.pop
+//                    top.state (NodeState.VISITED)
+//                            stack.addAll(top.getAdjacents)
+//
+//                }
+
+                   1
+
+
+
+    }
+
+
+
+
+
+    @Test
+    def test1()  {
+                println(  howLong ( List("1 2", "2", ""), List("5 3", "7", "")    ))
+    }
+}

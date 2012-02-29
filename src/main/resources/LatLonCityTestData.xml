@@ -1,0 +1,3778 @@
+<?xml version='1.0' encoding='UTF8'?>
+<cities>
+   <cityMapPoint>
+        <state>ALABAMA</state>
+        <city>Alexander City</city>
+        <latLon>32.57, -85.57</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ALABAMA</state>
+        <city>Anniston AP</city>
+        <latLon>33.35, -85.51</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ALABAMA</state>
+        <city>Auburn</city>
+        <latLon>32.36, -85.30</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ALABAMA</state>
+        <city>Birmingham AP</city>
+        <latLon>33.34, -86.45</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ALABAMA</state>
+        <city>Decatur</city>
+        <latLon>34.37, -86.59</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ALABAMA</state>
+        <city>Dothan AP</city>
+        <latLon>31.19, -85.27</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ALABAMA</state>
+        <city>Florence AP</city>
+        <latLon>34.48, -87.40</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ALABAMA</state>
+        <city>Gadsden</city>
+        <latLon>34.1, -86.0</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ALABAMA</state>
+        <city>Huntsville AP</city>
+        <latLon>34.42, -86.35</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ALABAMA</state>
+        <city>Mobile AP</city>
+        <latLon>30.41, -88.15</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ALABAMA</state>
+        <city>Mobile Co</city>
+        <latLon>30.40, -88.15</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ALABAMA</state>
+        <city>Montgomery AP</city>
+        <latLon>32.23, -86.22</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ALABAMA</state>
+        <city>Selma-Craig AFB</city>
+        <latLon>32.20, -87.59</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ALABAMA</state>
+        <city>Talladega</city>
+        <latLon>33.27, -86.6</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ALABAMA</state>
+        <city>Tuscaloosa AP</city>
+        <latLon>33.13, -87.37</latLon>
+    </cityMapPoint>
+
+    <cityMapPoint>
+        <state>ALASKA</state>
+        <city>Anchorage AP</city>
+        <latLon>61.10, -150.1</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ALASKA</state>
+        <city>Barrow (S)</city>
+        <latLon>71.18, -156.47</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ALASKA</state>
+        <city>Fairbanks AP (S)</city>
+        <latLon>64.49, -147.52</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ALASKA</state>
+        <city>Juneau AP</city>
+        <latLon>58.22, -134.35</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ALASKA</state>
+        <city>Kodiak</city>
+        <latLon>57.45, -152.29</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ALASKA</state>
+        <city>Nome AP</city>
+        <latLon>64.30, -165.26</latLon>
+    </cityMapPoint>
+
+
+    <cityMapPoint>
+        <state>ARIZONA</state>
+        <city>Douglas AP</city>
+        <latLon>31.27, -109.36</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ARIZONA</state>
+        <city>Flagstaff AP</city>
+        <latLon>35.8, -111.40</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ARIZONA</state>
+        <city>Fort Huachuca AP (S)</city>
+        <latLon>31.35, -110.20</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ARIZONA</state>
+        <city>Kingman AP</city>
+        <latLon>35.12, -114.1</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ARIZONA</state>
+        <city>Nogales</city>
+        <latLon>31.21, -110.55</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ARIZONA</state>
+        <city>Phoenix AP (S)</city>
+        <latLon>33.26, -112.1</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ARIZONA</state>
+        <city>Prescott AP</city>
+        <latLon>34.39, -112.26</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ARIZONA</state>
+        <city>Tucson AP (S)</city>
+        <latLon>32.7, -110.56</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ARIZONA</state>
+        <city>Winslow AP</city>
+        <latLon>35.1, -110.44</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ARIZONA</state>
+        <city>Yuma AP</city>
+        <latLon>32.39, -114.37</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ARKANSAS</state>
+        <city>Blytheville AFB</city>
+        <latLon>35.57, -89.57</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ARKANSAS</state>
+        <city>Camden</city>
+        <latLon>33.36, -92.49</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ARKANSAS</state>
+        <city>El Dorado AP</city>
+        <latLon>33.13, -92.49</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ARKANSAS</state>
+        <city>Fayetteville AP</city>
+        <latLon>36.0, -94.10</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ARKANSAS</state>
+        <city>Fort Smith AP</city>
+        <latLon>35.20, -94.22</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ARKANSAS</state>
+        <city>Hot Springs</city>
+        <latLon>34.29, -93.6</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ARKANSAS</state>
+        <city>Jonesboro</city>
+        <latLon>35.50, -90.42</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ARKANSAS</state>
+        <city>Little Rock AP (S)</city>
+        <latLon>34.44, -92.14</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ARKANSAS</state>
+        <city>Pine Bluff AP</city>
+        <latLon>34.18, -92.5</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ARKANSAS</state>
+        <city>Texarkana AP</city>
+        <latLon>33.27, -93.59</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Bakersfield AP</city>
+        <latLon>35.25, -119.3</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Barstow AP</city>
+        <latLon>34.51, -116.47</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Blythe AP</city>
+        <latLon>33.37, -114.43</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Burbank AP</city>
+        <latLon>34.12, -118.21</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Chico</city>
+        <latLon>39.48, -121.51</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Concord</city>
+        <latLon>37.58, -121.59</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Covina</city>
+        <latLon>34.5, -117.52</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Crescent City AP</city>
+        <latLon>41.46, -124.12</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Downey</city>
+        <latLon>33.56, -118.8</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>El Cajon</city>
+        <latLon>32.49, -116.58</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>El Cerrito AP (S)</city>
+        <latLon>32.49, -115.40</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Escondido</city>
+        <latLon>33.7, -117.5</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Eureka/Arcata AP</city>
+        <latLon>40.59, -124.6</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Fairfield-Trafis AFB</city>
+        <latLon>38.16, -121.56</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Fresno AP (S)</city>
+        <latLon>36.46, -119.43</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Hamilton AFB</city>
+        <latLon>38.4, -122.30</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Laguna Beach</city>
+        <latLon>33.33, -117.47</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Livermore</city>
+        <latLon>37.42, -121.57</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Lompoc, Vandenberg AFB</city>
+        <latLon>34.43, -120.34</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Long Beach AP</city>
+        <latLon>33.49, -118.9</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Los Angeles AP (S)</city>
+        <latLon>33.56, -118.24</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Los Angeles CO (S)</city>
+        <latLon>34.3, -118.14</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Merced-Castle AFB</city>
+        <latLon>37.23, -120.34</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Modesto</city>
+        <latLon>37.39, -121.0</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Monterey</city>
+        <latLon>36.36, -121.54</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Napa</city>
+        <latLon>38.13, -122.17</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Needles AP</city>
+        <latLon>34.36, -114.37</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Oakland AP</city>
+        <latLon>37.49, -122.19</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Oceanside</city>
+        <latLon>33.14, -117.25</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Ontario</city>
+        <latLon>34.3, -117.36</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Oxnard</city>
+        <latLon>34.12, -119.11</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Palmdale AP</city>
+        <latLon>34.34, -118.6</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Palm Springs</city>
+        <latLon>33.49, -116.32</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Pasadena</city>
+        <latLon>34.09, -118.9</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Petaluma</city>
+        <latLon>38.14, -122.38</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Pomona Co</city>
+        <latLon>34.3, -117.45</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Redding AP</city>
+        <latLon>40.31, -122.18</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Redlands</city>
+        <latLon>34.3, -117.11</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Richmond</city>
+        <latLon>37.56, -122.21</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Riverside-March AFB (S)</city>
+        <latLon>33.54, -117.15</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Sacramento AP</city>
+        <latLon>38.31, -121.30</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Salinas AP</city>
+        <latLon>36.40, -121.36</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>San Bernadino, Norton AFB</city>
+        <latLon>34.8, -117.16</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>San Diego AP</city>
+        <latLon>32.44, -117.10</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>San Fernando</city>
+        <latLon>34.17, -118.28</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>San Francisco AP</city>
+        <latLon>37.37, -122.23</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>San Francisco Co</city>
+        <latLon>37.46, -122.26</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>San Jose AP</city>
+        <latLon>37.22, -121.56</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>San Louis Obispo</city>
+        <latLon>35.20, -120.43</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Santa Ana AP</city>
+        <latLon>33.45, -117.52</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Santa Barbara MAP</city>
+        <latLon>34.26, -119.50</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Santa Cruz</city>
+        <latLon>36.59, -122.1</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Santa Maria AP (S)</city>
+        <latLon>34.54, -120.27</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Santa Monica CIC</city>
+        <latLon>34.1, -118.29</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Santa Paula</city>
+        <latLon>34.21, -119.5</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Santa Rosa</city>
+        <latLon>38.31, -122.49</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Stockton AP</city>
+        <latLon>37.54, -121.15</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Ukiah</city>
+        <latLon>39.9, -123.12</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Visalia</city>
+        <latLon>36.20, -119.18</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Yreka</city>
+        <latLon>41.43, -122.38</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Yuba City</city>
+        <latLon>39.8, -121.36</latLon>
+    </cityMapPoint>
+
+
+    <cityMapPoint>
+        <state>COLORADO</state>
+        <city>Alamosa AP</city>
+        <latLon>37.27, -105.52</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>COLORADO</state>
+        <city>Boulder</city>
+        <latLon>40.0, -105.16</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>COLORADO</state>
+        <city>Colorado Springs AP</city>
+        <latLon>38.49, -104.43</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>COLORADO</state>
+        <city>Denver AP</city>
+        <latLon>39.45, -104.52</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>COLORADO</state>
+        <city>Durango</city>
+        <latLon>37.17, -107.53</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>COLORADO</state>
+        <city>Fort Collins</city>
+        <latLon>40.45, -105.5</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>COLORADO</state>
+        <city>Grand Junction AP (S)</city>
+        <latLon>39.7, -108.32</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>COLORADO</state>
+        <city>Greeley</city>
+        <latLon>40.26, -104.38</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>COLORADO</state>
+        <city>Lajunta AP</city>
+        <latLon>38.3, -103.30</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>COLORADO</state>
+        <city>Leadville</city>
+        <latLon>39.15, -106.18</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>COLORADO</state>
+        <city>Pueblo AP</city>
+        <latLon>38.18, -104.29</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>COLORADO</state>
+        <city>Sterling</city>
+        <latLon>40.37, -103.12</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>COLORADO</state>
+        <city>Trinidad</city>
+        <latLon>37.15, -104.20</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CONNECTICUT</state>
+        <city>Bridgeport AP</city>
+        <latLon>41.11, -73.11</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CONNECTICUT</state>
+        <city>Hartford, Brainard Field</city>
+        <latLon>41.44, -72.39</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CONNECTICUT</state>
+        <city>New Haven AP</city>
+        <latLon>41.19, -73.55</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CONNECTICUT</state>
+        <city>New London</city>
+        <latLon>41.21, -72.6</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CONNECTICUT</state>
+        <city>Norwalk</city>
+        <latLon>41.7, -73.25</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CONNECTICUT</state>
+        <city>Norwick</city>
+        <latLon>41.32, -72.4</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CONNECTICUT</state>
+        <city>Waterbury</city>
+        <latLon>41.35, -73.4</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CONNECTICUT</state>
+        <city>Widsor Locks, Bradley Fld</city>
+        <latLon>41.56, -72.41</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>DELAWARE</state>
+        <city>Dover AFB</city>
+        <latLon>39.8, -75.28</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>DELAWARE</state>
+        <city>Wilmington AP</city>
+        <latLon>39.40, -75.36</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>DISTRICT OF COLUMBIA</state>
+        <city>Andrews AFB</city>
+        <latLon>38.5, -76.5</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>DISTRICT OF COLUMBIA</state>
+        <city>Washington, National AP</city>
+        <latLon>38.51, -77.2</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>FLORIDA</state>
+        <city>Belle Glade</city>
+        <latLon>26.39, -80.39</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>FLORIDA</state>
+        <city>Cape Kennedy AP</city>
+        <latLon>28.29, -80.34</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>FLORIDA</state>
+        <city>Daytona Beach AP</city>
+        <latLon>29.11, -81.3</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>FLORIDA</state>
+        <city>E Fort Lauderdale</city>
+        <latLon>26.4, -80.9</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>FLORIDA</state>
+        <city>Fort Myers AP</city>
+        <latLon>26.35, -81.52</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>FLORIDA</state>
+        <city>Fort Pierce</city>
+        <latLon>27.28, -80.21</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>FLORIDA</state>
+        <city>Gainsville AP (S)</city>
+        <latLon>29.41, -82.16</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>FLORIDA</state>
+        <city>Jacksonville AP</city>
+        <latLon>30.30, -81.42</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>FLORIDA</state>
+        <city>Key West AP</city>
+        <latLon>24.33, -81.45</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>FLORIDA</state>
+        <city>Lakeland Co (S)</city>
+        <latLon>28.2, -81.57</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>FLORIDA</state>
+        <city>Miami AP (S)</city>
+        <latLon>25.48, -80.16</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>FLORIDA</state>
+        <city>Miami Beach Co</city>
+        <latLon>25.47, -80.17</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>FLORIDA</state>
+        <city>Ocala</city>
+        <latLon>29.11, -82.8</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>FLORIDA</state>
+        <city>Orlando AP</city>
+        <latLon>28.33, -81.23</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>FLORIDA</state>
+        <city>Panama City, Tyndall AFB</city>
+        <latLon>30.4, -85.35</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>FLORIDA</state>
+        <city>Pensacola Co</city>
+        <latLon>30.25, -87.13</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>FLORIDA</state>
+        <city>St.Augustine</city>
+        <latLon>29.58, -81.20</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>FLORIDA</state>
+        <city>St.Petersburg</city>
+        <latLon>27.46, -82.80</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>FLORIDA</state>
+        <city>Stanford</city>
+        <latLon>28.46, -81.17</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>FLORIDA</state>
+        <city>Sarasota</city>
+        <latLon>27.23, -82.33</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>FLORIDA</state>
+        <city>Tallahassee AP (S)</city>
+        <latLon>30.23, -84.22</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>FLORIDA</state>
+        <city>Tampa AP (S)</city>
+        <latLon>27.58, -82.32</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>FLORIDA</state>
+        <city>West Palm Beach AP</city>
+        <latLon>26.41, -80.6</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>GEORGIA</state>
+        <city>Albany, Turner AFB</city>
+        <latLon>31.36, -84.5</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>GEORGIA</state>
+        <city>Americus</city>
+        <latLon>32.3, -84.14</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>GEORGIA</state>
+        <city>Athens</city>
+        <latLon>33.57, -83.19</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>GEORGIA</state>
+        <city>Atlanta AP (S)</city>
+        <latLon>33.39, -84.26</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>GEORGIA</state>
+        <city>Augusta AP</city>
+        <latLon>33.22, -81.58</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>GEORGIA</state>
+        <city>Brunswick</city>
+        <latLon>31.15, -81.29</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>GEORGIA</state>
+        <city>Columbus, Lawson AFB</city>
+        <latLon>32.31, -84.56</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>GEORGIA</state>
+        <city>Dalton</city>
+        <latLon>34.34, -84.57</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>GEORGIA</state>
+        <city>Dublin</city>
+        <latLon>32.20, -82.54</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>GEORGIA</state>
+        <city>Gainsville</city>
+        <latLon>34.11, -83.41</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>GEORGIA</state>
+        <city>Griffin</city>
+        <latLon>33.13, -84.16</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>GEORGIA</state>
+        <city>LaGrange</city>
+        <latLon>33.1, -85.4</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>GEORGIA</state>
+        <city>Macon AP</city>
+        <latLon>32.42, -83.39</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>GEORGIA</state>
+        <city>Marietta, Dobbins AFB</city>
+        <latLon>33.55, -84.31</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>GEORGIA</state>
+        <city>Savannah</city>
+        <latLon>32.8, -81.12</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>GEORGIA</state>
+        <city>Valdosta-Moody AFB</city>
+        <latLon>30.58, -83.12</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>GEORGIA</state>
+        <city>Waycross</city>
+        <latLon>31.15, -82.24</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>HAWAII</state>
+        <city>Hilo AP (S)</city>
+        <latLon>19.43, -155.5</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>HAWAII</state>
+        <city>Honolulu AP</city>
+        <latLon>21.20, -157.55</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>HAWAII</state>
+        <city>Kaneohe Bay MCAS</city>
+        <latLon>21.27, -157.46</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>HAWAII</state>
+        <city>Wahiawa</city>
+        <latLon>21.3, -158.2</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>IDAHO</state>
+        <city>Boise AP (S)</city>
+        <latLon>43.34, -116.13</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>IDAHO</state>
+        <city>Burley</city>
+        <latLon>42.32, -113.46</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>IDAHO</state>
+        <city>Coeur D'Alene AP</city>
+        <latLon>47.46, -116.49</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>IDAHO</state>
+        <city>Idaho Falls AP</city>
+        <latLon>43.31, -112.4</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>IDAHO</state>
+        <city>Lewiston AP</city>
+        <latLon>46.23, -117.1</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>IDAHO</state>
+        <city>Moscow</city>
+        <latLon>46.44, -116.58</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>IDAHO</state>
+        <city>Mountain Home AFB</city>
+        <latLon>43.2, -115.54</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>IDAHO</state>
+        <city>Pocatello AP</city>
+        <latLon>42.55, -112.36</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>IDAHO</state>
+        <city>Twin Falls AP (S)</city>
+        <latLon>42.29, -114.29</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ILLINOIS</state>
+        <city>Aurora</city>
+        <latLon>41.45, -88.20</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ILLINOIS</state>
+        <city>Belleville, Scott AFB</city>
+        <latLon>38.33, -89.51</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ILLINOIS</state>
+        <city>Bloomington</city>
+        <latLon>40.29, -88.57</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ILLINOIS</state>
+        <city>Carbondale</city>
+        <latLon>37.47, -89.15</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ILLINOIS</state>
+        <city>Champaign/Urbana</city>
+        <latLon>40.2, -88.17</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ILLINOIS</state>
+        <city>Chicago, Midway AP</city>
+        <latLon>41.47, -87.45</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ILLINOIS</state>
+        <city>Chicago, O'Hare AP</city>
+        <latLon>41.59, -87.54</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ILLINOIS</state>
+        <city>Chicago Co</city>
+        <latLon>41.53, -87.38</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ILLINOIS</state>
+        <city>Danville</city>
+        <latLon>40.12, -87.36</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ILLINOIS</state>
+        <city>Decatur</city>
+        <latLon>39.50, -88.52</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ILLINOIS</state>
+        <city>Dixon</city>
+        <latLon>41.50, -89.29</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ILLINOIS</state>
+        <city>Elgin</city>
+        <latLon>42.2, -88.16</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ILLINOIS</state>
+        <city>Freeport</city>
+        <latLon>42.18, -89.37</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ILLINOIS</state>
+        <city>Galesburg</city>
+        <latLon>40.56, -90.26</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ILLINOIS</state>
+        <city>Greenville</city>
+        <latLon>38.53, -89.24</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ILLINOIS</state>
+        <city>Joliet</city>
+        <latLon>41.31, -88.10</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ILLINOIS</state>
+        <city>Kankakee</city>
+        <latLon>41.5, -87.55</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ILLINOIS</state>
+        <city>La Salle/Peru</city>
+        <latLon>41.19, -89.6</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ILLINOIS</state>
+        <city>Macomb</city>
+        <latLon>40.28, -90.40</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ILLINOIS</state>
+        <city>Moline AP</city>
+        <latLon>41.27, -90.31</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ILLINOIS</state>
+        <city>Mt Vernon</city>
+        <latLon>38.19, -88.52</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ILLINOIS</state>
+        <city>Peoria AP</city>
+        <latLon>40.40, -89.41</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ILLINOIS</state>
+        <city>Quincy AP</city>
+        <latLon>39.57, -91.12</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ILLINOIS</state>
+        <city>Rantoul, Chanute AFB</city>
+        <latLon>40.18, -88.8</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ILLINOIS</state>
+        <city>Rockford</city>
+        <latLon>42.21, -89.3</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ILLINOIS</state>
+        <city>Springfield AP</city>
+        <latLon>39.50, -89.40</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>ILLINOIS</state>
+        <city>Waukegan</city>
+        <latLon>42.21, -87.53</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>INDIANA</state>
+        <city>Anderson</city>
+        <latLon>40.6, -85.37</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>INDIANA</state>
+        <city>Bedford</city>
+        <latLon>38.51, -86.30</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>INDIANA</state>
+        <city>Bloomington</city>
+        <latLon>39.8, -86.37</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>INDIANA</state>
+        <city>Columbus, Bakalar AFB</city>
+        <latLon>39.16, -85.54</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>INDIANA</state>
+        <city>Crawfordsville</city>
+        <latLon>40.3, -86.54</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>INDIANA</state>
+        <city>Evansville AP</city>
+        <latLon>38.3, -87.32</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>INDIANA</state>
+        <city>Fort Wayne AP</city>
+        <latLon>41.0, -85.12</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>INDIANA</state>
+        <city>Goshen AP</city>
+        <latLon>41.32, -85.48</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>INDIANA</state>
+        <city>Hobart</city>
+        <latLon>41.32, -87.15</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>INDIANA</state>
+        <city>Huntington</city>
+        <latLon>40.53, -85.30</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>INDIANA</state>
+        <city>Indianapolis AP</city>
+        <latLon>39.44, -86.17</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>INDIANA</state>
+        <city>Jeffersonville</city>
+        <latLon>38.17, -85.45</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>INDIANA</state>
+        <city>Kokomo</city>
+        <latLon>40.25, -86.3</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>INDIANA</state>
+        <city>Lafayette</city>
+        <latLon>40.2, -86.5</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>INDIANA</state>
+        <city>La Porte</city>
+        <latLon>41.36, -86.43</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>INDIANA</state>
+        <city>Marion</city>
+        <latLon>40.29, -85.41</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>INDIANA</state>
+        <city>Muncie</city>
+        <latLon>40.11, -85.21</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>INDIANA</state>
+        <city>Peru, Grissom AFB</city>
+        <latLon>40.39, -86.9</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>INDIANA</state>
+        <city>Richmond AP</city>
+        <latLon>39.46, -84.50</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>INDIANA</state>
+        <city>Shelbyville</city>
+        <latLon>39.31, -85.47</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>INDIANA</state>
+        <city>South Bend AP</city>
+        <latLon>41.42, -86.19</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>INDIANA</state>
+        <city>Terre Haute AP</city>
+        <latLon>39.27, -87.18</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>INDIANA</state>
+        <city>Valparaiso</city>
+        <latLon>41.31, -87.2</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>INDIANA</state>
+        <city>Vincennes</city>
+        <latLon>38.41, -87.32</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>IOWA</state>
+        <city>Ames (S)</city>
+        <latLon>42.2, -93.48</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>IOWA</state>
+        <city>Burlington AP</city>
+        <latLon>40.47, -91.7</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>IOWA</state>
+        <city>Cedar Rapids AP</city>
+        <latLon>41.53, -91.42</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>IOWA</state>
+        <city>Clinton</city>
+        <latLon>41.50, -90.13</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>IOWA</state>
+        <city>Council Bluffs</city>
+        <latLon>41.20, -95.49</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>IOWA</state>
+        <city>Des Moines AP</city>
+        <latLon>41.32, -93.39</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>IOWA</state>
+        <city>Dubuque</city>
+        <latLon>42.24, -90.42</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>IOWA</state>
+        <city>Fort Dodge</city>
+        <latLon>42.33, -94.11</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>IOWA</state>
+        <city>Iowa City</city>
+        <latLon>41.38, -91.33</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>IOWA</state>
+        <city>Keokuk</city>
+        <latLon>40.24, -91.24</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>IOWA</state>
+        <city>Marshalltown</city>
+        <latLon>42.4, -92.56</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>IOWA</state>
+        <city>Mason City AP</city>
+        <latLon>43.9, -93.20</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>IOWA</state>
+        <city>Newton</city>
+        <latLon>41.41, -93.2</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>IOWA</state>
+        <city>Ottumwa AP</city>
+        <latLon>41.6, -92.27</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>IOWA</state>
+        <city>Sioux City AP</city>
+        <latLon>42.24, -96.23</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>IOWA</state>
+        <city>Waterloo</city>
+        <latLon>42.33, -92.24</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>KANSAS</state>
+        <city>Atchison</city>
+        <latLon>39.34, -95.7</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>KANSAS</state>
+        <city>Chanute AP</city>
+        <latLon>37.40, -95.29</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>KANSAS</state>
+        <city>Dodge City AP (S)</city>
+        <latLon>37.46, -99.58</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>KANSAS</state>
+        <city>El Dorado</city>
+        <latLon>37.49, -96.50</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>KANSAS</state>
+        <city>Emporia</city>
+        <latLon>38.20, -96.12</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>KANSAS</state>
+        <city>Garden City AP</city>
+        <latLon>37.56, -100.44</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>KANSAS</state>
+        <city>Goodland AP</city>
+        <latLon>39.22, -101.42</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>KANSAS</state>
+        <city>Great Bend</city>
+        <latLon>38.21, -98.52</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>KANSAS</state>
+        <city>Hutchinson AP</city>
+        <latLon>38.4, -97.52</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>KANSAS</state>
+        <city>Liberal</city>
+        <latLon>37.3, -100.58</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>KANSAS</state>
+        <city>Manhattan, Ft Riley (S)</city>
+        <latLon>39.3, -96.46</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>KANSAS</state>
+        <city>Parsons</city>
+        <latLon>37.20, -95.31</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>KANSAS</state>
+        <city>Russell AP</city>
+        <latLon>38.52, -98.49</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>KANSAS</state>
+        <city>Salina</city>
+        <latLon>38.48, -97.39</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>KANSAS</state>
+        <city>Topeka AP</city>
+        <latLon>39.4, -95.38</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>KANSAS</state>
+        <city>Wichita AP</city>
+        <latLon>37.39, -97.25</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>KENTUCKY</state>
+        <city>Ashland</city>
+        <latLon>38.33, -82.44</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>KENTUCKY</state>
+        <city>Bowling Green AP</city>
+        <latLon>35.58, -86.28</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>KENTUCKY</state>
+        <city>Corbin AP</city>
+        <latLon>36.57, -84.6</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>KENTUCKY</state>
+        <city>Covington AP</city>
+        <latLon>39.3, -84.40</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>KENTUCKY</state>
+        <city>Hopkinsville, Ft Campbell</city>
+        <latLon>36.40, -87.29</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>KENTUCKY</state>
+        <city>Lexington AP (S)</city>
+        <latLon>38.2, -84.36</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>KENTUCKY</state>
+        <city>Louisville AP</city>
+        <latLon>38.11, -85.44</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>KENTUCKY</state>
+        <city>Madisonville</city>
+        <latLon>37.19, -87.29</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>KENTUCKY</state>
+        <city>Owensboro</city>
+        <latLon>37.45, -87.10</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>KENTUCKY</state>
+        <city>Paducah AP</city>
+        <latLon>37.4, -88.46</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>LOUISIANA</state>
+        <city>Alexandria AP</city>
+        <latLon>31.24, -92.18</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>LOUISIANA</state>
+        <city>Baton Rouge AP</city>
+        <latLon>30.32, -91.9</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>LOUISIANA</state>
+        <city>Bogalusa</city>
+        <latLon>30.47, -89.52</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>LOUISIANA</state>
+        <city>Houma</city>
+        <latLon>29.31, -90.40</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>LOUISIANA</state>
+        <city>Lafayette AP</city>
+        <latLon>30.12, -92.0</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>LOUISIANA</state>
+        <city>Lake Charles AP (S)</city>
+        <latLon>30.7, -93.13</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>LOUISIANA</state>
+        <city>Minden</city>
+        <latLon>32.36, -93.18</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>LOUISIANA</state>
+        <city>Monroe AP</city>
+        <latLon>32.31, -92.2</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>LOUISIANA</state>
+        <city>Natchitoches</city>
+        <latLon>31.46, -93.5</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>LOUISIANA</state>
+        <city>New Orleans AP</city>
+        <latLon>29.59, -90.15</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>LOUISIANA</state>
+        <city>Shreveport AP (S)</city>
+        <latLon>32.28, -93.49</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MAINE</state>
+        <city>Augusta AP</city>
+        <latLon>44.19, -69.48</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MAINE</state>
+        <city>Bangor, Dow AFB</city>
+        <latLon>44.48, -68.50</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MAINE</state>
+        <city>Caribou AP (S)</city>
+        <latLon>46.52, -68.1</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MAINE</state>
+        <city>Lewiston</city>
+        <latLon>44.2, -70.15</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MAINE</state>
+        <city>Millinocket AP</city>
+        <latLon>45.39, -68.42</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MAINE</state>
+        <city>Portland (S)</city>
+        <latLon>43.39, -70.19</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MAINE</state>
+        <city>Waterville</city>
+        <latLon>44.32, -69.40</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MARYLAND</state>
+        <city>Baltimore AP</city>
+        <latLon>39.11, -76.40</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MARYLAND</state>
+        <city>Baltimore Co</city>
+        <latLon>39.20, -76.25</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MARYLAND</state>
+        <city>Cumberland</city>
+        <latLon>39.37, -78.46</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MARYLAND</state>
+        <city>Frederick AP</city>
+        <latLon>39.27, -77.25</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MARYLAND</state>
+        <city>Hagerstown</city>
+        <latLon>39.42, -77.44</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MARYLAND</state>
+        <city>Salisbury (S)</city>
+        <latLon>38.20, -75.30</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MASSACHUSETTS</state>
+        <city>Boston AP</city>
+        <latLon>42.22, -71.2</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MASSACHUSETTS</state>
+        <city>Clinton</city>
+        <latLon>42.24, -71.41</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MASSACHUSETTS</state>
+        <city>Fall River</city>
+        <latLon>41.43, -71.8</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MASSACHUSETTS</state>
+        <city>Framingham</city>
+        <latLon>42.17, -71.25</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MASSACHUSETTS</state>
+        <city>Gloucester</city>
+        <latLon>42.35, -70.41</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MASSACHUSETTS</state>
+        <city>Greenfield</city>
+        <latLon>42.3, -72.4</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MASSACHUSETTS</state>
+        <city>Lawrence</city>
+        <latLon>42.42, -71.10</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MASSACHUSETTS</state>
+        <city>Lowell</city>
+        <latLon>42.39, -71.19</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MASSACHUSETTS</state>
+        <city>New Bedford</city>
+        <latLon>41.41, -70.58</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MASSACHUSETTS</state>
+        <city>Pittsfield AP</city>
+        <latLon>42.26, -73.18</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MASSACHUSETTS</state>
+        <city>Springfield, Westover AFB</city>
+        <latLon>42.12, -72.32</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MASSACHUSETTS</state>
+        <city>Taunton</city>
+        <latLon>41.54, -71.4</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MASSACHUSETTS</state>
+        <city>Worcester AP</city>
+        <latLon>42.16, -71.52</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MICHIGAN</state>
+        <city>Adrian</city>
+        <latLon>41.55, -84.1</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MICHIGAN</state>
+        <city>Alpena AP</city>
+        <latLon>45.4, -83.26</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MICHIGAN</state>
+        <city>Battle Creek AP</city>
+        <latLon>42.19, -85.15</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MICHIGAN</state>
+        <city>Benton Harbor AP</city>
+        <latLon>42.8, -86.26</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MICHIGAN</state>
+        <city>Detroit</city>
+        <latLon>42.25, -83.1</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MICHIGAN</state>
+        <city>Escanaba</city>
+        <latLon>45.44, -87.5</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MICHIGAN</state>
+        <city>Flint AP</city>
+        <latLon>42.58, -83.44</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MICHIGAN</state>
+        <city>Grand Rapids AP</city>
+        <latLon>42.53, -85.31</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MICHIGAN</state>
+        <city>Holland</city>
+        <latLon>42.42, -86.6</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MICHIGAN</state>
+        <city>Jackson AP</city>
+        <latLon>42.16, -84.28</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MICHIGAN</state>
+        <city>Kalamazoo</city>
+        <latLon>42.17, -85.36</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MICHIGAN</state>
+        <city>Lansing AP</city>
+        <latLon>42.47, -84.36</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MICHIGAN</state>
+        <city>Marquette Co</city>
+        <latLon>46.34, -87.24</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MICHIGAN</state>
+        <city>Mt Pleasant</city>
+        <latLon>43.35, -84.46</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MICHIGAN</state>
+        <city>Muskegon AP</city>
+        <latLon>43.10, -86.14</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MICHIGAN</state>
+        <city>Pontiac</city>
+        <latLon>42.40, -83.25</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MICHIGAN</state>
+        <city>Port Huron</city>
+        <latLon>42.59, -82.25</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MICHIGAN</state>
+        <city>Saginaw AP</city>
+        <latLon>43.32, -84.5</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MICHIGAN</state>
+        <city>Sault Ste. Marie AP (S)</city>
+        <latLon>46.28, -84.22</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MICHIGAN</state>
+        <city>Traverse City AP</city>
+        <latLon>44.45, -85.35</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MICHIGAN</state>
+        <city>Ypsilanti</city>
+        <latLon>42.14, -83.32</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MINNESOTA</state>
+        <city>Albert Lea</city>
+        <latLon>43.39, -93.21</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MINNESOTA</state>
+        <city>Alexandria AP</city>
+        <latLon>45.52, -95.23</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MINNESOTA</state>
+        <city>Bemidji AP</city>
+        <latLon>47.31, -94.56</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MINNESOTA</state>
+        <city>Brainerd</city>
+        <latLon>46.24, -94.8</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MINNESOTA</state>
+        <city>Duluth AP</city>
+        <latLon>46.50, -92.11</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MINNESOTA</state>
+        <city>Fairbault</city>
+        <latLon>44.18, -93.16</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MINNESOTA</state>
+        <city>Fergus Falls</city>
+        <latLon>46.16, -96.4</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MINNESOTA</state>
+        <city>International Falls AP</city>
+        <latLon>48.34, -93.23</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MINNESOTA</state>
+        <city>Mankato</city>
+        <latLon>44.9, -93.59</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MINNESOTA</state>
+        <city>Minneapolis/St.Paul AP</city>
+        <latLon>44.53, -93.13</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MINNESOTA</state>
+        <city>Rochester AP</city>
+        <latLon>43.55, -92.30</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MINNESOTA</state>
+        <city>St. Cloud AP (S)</city>
+        <latLon>45.35, -94.11</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MINNESOTA</state>
+        <city>Virginia</city>
+        <latLon>47.30, -92.33</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MINNESOTA</state>
+        <city>Willmar</city>
+        <latLon>45.7, -95.5</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MINNESOTA</state>
+        <city>Winona</city>
+        <latLon>44.3, -91.38</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MISSISSIPPI</state>
+        <city>Biloxi Keesler AFB</city>
+        <latLon>30.25, -88.55</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MISSISSIPPI</state>
+        <city>Clarksdale</city>
+        <latLon>34.12, -90.34</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MISSISSIPPI</state>
+        <city>Columbus AFB</city>
+        <latLon>33.39, -88.27</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MISSISSIPPI</state>
+        <city>Greenville AFB</city>
+        <latLon>33.29, -90.59</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MISSISSIPPI</state>
+        <city>Greenwood</city>
+        <latLon>33.30, -90.5</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MISSISSIPPI</state>
+        <city>Hattiesburg</city>
+        <latLon>31.16, -89.15</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MISSISSIPPI</state>
+        <city>Jackson AP</city>
+        <latLon>32.19, -90.5</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MISSISSIPPI</state>
+        <city>Laurel</city>
+        <latLon>31.40, -89.10</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MISSISSIPPI</state>
+        <city>Mccomb AP</city>
+        <latLon>31.15, -90.28</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MISSISSIPPI</state>
+        <city>Meridian AP</city>
+        <latLon>32.20, -88.45</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MISSISSIPPI</state>
+        <city>Natchez</city>
+        <latLon>31.33, -91.23</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MISSISSIPPI</state>
+        <city>Tupelo</city>
+        <latLon>34.16, -88.46</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MISSISSIPPI</state>
+        <city>Vicksburg Co</city>
+        <latLon>32.24, -90.47</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MISSOURI</state>
+        <city>Cape Girardeau</city>
+        <latLon>37.14, -89.35</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MISSOURI</state>
+        <city>Columbia AP (S)</city>
+        <latLon>38.58, -92.22</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MISSOURI</state>
+        <city>Farmington AP</city>
+        <latLon>37.46, -90.24</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MISSOURI</state>
+        <city>Hannibal</city>
+        <latLon>39.42, -91.21</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MISSOURI</state>
+        <city>Jefferson City</city>
+        <latLon>38.34, -92.11</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MISSOURI</state>
+        <city>Joplin AP</city>
+        <latLon>37.9, -94.30</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MISSOURI</state>
+        <city>Kansas City AP</city>
+        <latLon>39.7, -94.35</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MISSOURI</state>
+        <city>Kirksville AP</city>
+        <latLon>40.6, -92.33</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MISSOURI</state>
+        <city>Mexico</city>
+        <latLon>39.11, -91.54</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MISSOURI</state>
+        <city>Moberly</city>
+        <latLon>39.24, -92.26</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MISSOURI</state>
+        <city>Poplar Bluff</city>
+        <latLon>36.46, -90.25</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MISSOURI</state>
+        <city>Rolla</city>
+        <latLon>37.59, -91.43</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MISSOURI</state>
+        <city>St.Joseph AP</city>
+        <latLon>39.46, -94.55</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MISSOURI</state>
+        <city>St.Louis AP</city>
+        <latLon>38.45, -90.23</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MISSOURI</state>
+        <city>St.Louis CO</city>
+        <latLon>38.39, -90.38</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MISSOURI</state>
+        <city>Sikeston</city>
+        <latLon>36.53, -89.36</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MISSOURI</state>
+        <city>Sedalia Whiteman AFB</city>
+        <latLon>38.43, -93.33</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MISSOURI</state>
+        <city>Sikeston</city>
+        <latLon>36.53, -89.36</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MISSOURI</state>
+        <city>Springfield AP</city>
+        <latLon>37.14, -93.23</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MONTANA</state>
+        <city>Billings AP</city>
+        <latLon>45.48, -108.32</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MONTANA</state>
+        <city>Bozeman</city>
+        <latLon>45.47, -111.9</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MONTANA</state>
+        <city>Butte AP</city>
+        <latLon>45.57, -112.30</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MONTANA</state>
+        <city>Cut Bank AP</city>
+        <latLon>48.37, -112.22</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MONTANA</state>
+        <city>Glasgow AP (S)</city>
+        <latLon>48.25, -106.32</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MONTANA</state>
+        <city>Glendive</city>
+        <latLon>47.8, -104.48</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MONTANA</state>
+        <city>Great Falls AP (S)</city>
+        <latLon>47.29, -111.22</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MONTANA</state>
+        <city>Havre</city>
+        <latLon>48.34, -109.40</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MONTANA</state>
+        <city>Helena AP</city>
+        <latLon>46.36, -112.0</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MONTANA</state>
+        <city>Kalispell AP</city>
+        <latLon>48.18, -114.16</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MONTANA</state>
+        <city>Lewiston AP</city>
+        <latLon>47.4, -109.27</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MONTANA</state>
+        <city>Livingstown AP</city>
+        <latLon>45.42, -110.26</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MONTANA</state>
+        <city>Miles City AP</city>
+        <latLon>46.26, -105.52</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>MONTANA</state>
+        <city>Missoula AP</city>
+        <latLon>46.55, -114.5</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEBRASKA</state>
+        <city>Beatrice</city>
+        <latLon>40.16, -96.45</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEBRASKA</state>
+        <city>Chadron AP</city>
+        <latLon>42.50, -103.5</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEBRASKA</state>
+        <city>Columbus</city>
+        <latLon>41.28, -97.20</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEBRASKA</state>
+        <city>Fremont</city>
+        <latLon>41.26, -96.29</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEBRASKA</state>
+        <city>Grand Island AP</city>
+        <latLon>40.59, -98.19</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEBRASKA</state>
+        <city>Hastings</city>
+        <latLon>40.36, -98.26</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEBRASKA</state>
+        <city>Kearney</city>
+        <latLon>40.44, -99.1</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEBRASKA</state>
+        <city>Lincoln Co (S)</city>
+        <latLon>40.51, -96.45</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEBRASKA</state>
+        <city>McCook</city>
+        <latLon>40.12, -100.38</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEBRASKA</state>
+        <city>Norfolk</city>
+        <latLon>41.59, -97.26</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEBRASKA</state>
+        <city>North Platte AP (S)</city>
+        <latLon>41.8, -100.41</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEBRASKA</state>
+        <city>Omaha AP</city>
+        <latLon>41.18, -95.54</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEBRASKA</state>
+        <city>Scottsbluff AP</city>
+        <latLon>41.52, -103.36</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEBRASKA</state>
+        <city>Sidney AP</city>
+        <latLon>41.13, -103.6</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEVADA</state>
+        <city>Carson City</city>
+        <latLon>39.10, -119.46</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEVADA</state>
+        <city>Elko AP</city>
+        <latLon>40.50, -115.47</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEVADA</state>
+        <city>Ely AP (S)</city>
+        <latLon>39.17, -114.51</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEVADA</state>
+        <city>Las Vegas AP (S)</city>
+        <latLon>36.5, -115.10</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEVADA</state>
+        <city>Lovelock AP</city>
+        <latLon>40.4, -118.33</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEVADA</state>
+        <city>Reno AP (S)</city>
+        <latLon>39.30, -119.47</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEVADA</state>
+        <city>Reno Co</city>
+        <latLon>39.30, -119.47</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEVADA</state>
+        <city>Tonopah AP</city>
+        <latLon>38.4, -117.5</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEVADA</state>
+        <city>Winnemucca AP</city>
+        <latLon>40.54, -117.48</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW HAMPSHIRE</state>
+        <city>Berlin</city>
+        <latLon>44.3, -71.1</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW HAMPSHIRE</state>
+        <city>Claremont</city>
+        <latLon>43.2, -72.2</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW HAMPSHIRE</state>
+        <city>Concord AP</city>
+        <latLon>43.12, -71.30</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW HAMPSHIRE</state>
+        <city>Keene</city>
+        <latLon>42.55, -72.17</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW HAMPSHIRE</state>
+        <city>Laconia</city>
+        <latLon>43.3, -71.3</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW HAMPSHIRE</state>
+        <city>Manchester, Grenier AFB</city>
+        <latLon>42.56, -71.26</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW HAMPSHIRE</state>
+        <city>Portsmouth, Pease AFB</city>
+        <latLon>43.4, -70.49</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW JERSEY</state>
+        <city>Atlantic City CO</city>
+        <latLon>39.23, -74.26</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW JERSEY</state>
+        <city>Long Branch</city>
+        <latLon>40.19, -74.1</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW JERSEY</state>
+        <city>Newark AP</city>
+        <latLon>40.42, -74.10</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW JERSEY</state>
+        <city>New Brunswick</city>
+        <latLon>40.29, -74.26</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW JERSEY</state>
+        <city>Paterson</city>
+        <latLon>40.54, -74.9</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW JERSEY</state>
+        <city>Phillipsburg</city>
+        <latLon>40.41, -75.11</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW JERSEY</state>
+        <city>Trenton Co</city>
+        <latLon>40.13, -74.46</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW JERSEY</state>
+        <city>Vineland</city>
+        <latLon>39.29, -75.0</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW MEXICO</state>
+        <city>Alamagordo.Holloman AFB</city>
+        <latLon>32.51, -106.6</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW MEXICO</state>
+        <city>Albuquerque AP (S)</city>
+        <latLon>35.3, -106.37</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW MEXICO</state>
+        <city>Artesia</city>
+        <latLon>32.46, -104.23</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW MEXICO</state>
+        <city>Carlsbad AP</city>
+        <latLon>32.20, -104.16</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW MEXICO</state>
+        <city>Clovis AP</city>
+        <latLon>34.23, -103.19</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW MEXICO</state>
+        <city>Farmington AP</city>
+        <latLon>36.44, -108.14</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW MEXICO</state>
+        <city>Gallup</city>
+        <latLon>35.31, -108.47</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW MEXICO</state>
+        <city>Grants</city>
+        <latLon>35.10, -107.54</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW MEXICO</state>
+        <city>Hobbs AP</city>
+        <latLon>32.45, -103.13</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW MEXICO</state>
+        <city>Las Cruces</city>
+        <latLon>32.18, -106.55</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW MEXICO</state>
+        <city>Los Alamos</city>
+        <latLon>35.52, -106.19</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW MEXICO</state>
+        <city>Raton AP</city>
+        <latLon>36.45, -104.30</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW MEXICO</state>
+        <city>Roswell, Walker AFB</city>
+        <latLon>33.18, -104.32</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW MEXICO</state>
+        <city>Santa Fe CO</city>
+        <latLon>35.37, -106.5</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW MEXICO</state>
+        <city>Silver City AP</city>
+        <latLon>32.38, -108.10</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW MEXICO</state>
+        <city>Socorro AP</city>
+        <latLon>34.3, -106.53</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW MEXICO</state>
+        <city>Tucumcari AP</city>
+        <latLon>35.11, -103.36</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW YORK</state>
+        <city>Albany AP (S)</city>
+        <latLon>42.45, -73.48</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW YORK</state>
+        <city>Albany Co</city>
+        <latLon>42.39, -73.45</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW YORK</state>
+        <city>Auburn</city>
+        <latLon>42.54, -76.32</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW YORK</state>
+        <city>Batavia</city>
+        <latLon>43.0, -78.11</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW YORK</state>
+        <city>Binghamton AP</city>
+        <latLon>42.13, -75.59</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW YORK</state>
+        <city>Buffalo AP</city>
+        <latLon>42.56, -78.44</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW YORK</state>
+        <city>Cortland</city>
+        <latLon>42.36, -76.11</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW YORK</state>
+        <city>Dunkirk</city>
+        <latLon>42.29, -79.16</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW YORK</state>
+        <city>Elmira AP</city>
+        <latLon>42.10, -76.54</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW YORK</state>
+        <city>Geneva (S)</city>
+        <latLon>42.45, -76.54</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW YORK</state>
+        <city>Glens Falls</city>
+        <latLon>43.20, -73.37</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW YORK</state>
+        <city>Gloversville</city>
+        <latLon>43.2, -74.21</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW YORK</state>
+        <city>Hornell</city>
+        <latLon>42.21, -77.42</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW YORK</state>
+        <city>Ithaca (S)</city>
+        <latLon>42.27, -76.29</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW YORK</state>
+        <city>Jamestown</city>
+        <latLon>42.7, -79.14</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW YORK</state>
+        <city>Kingston</city>
+        <latLon>41.56, -74.0</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW YORK</state>
+        <city>Lockport</city>
+        <latLon>43.9, -79.15</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW YORK</state>
+        <city>Massena AP</city>
+        <latLon>44.56, -74.51</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW YORK</state>
+        <city>Newburgh, Stewart AFB</city>
+        <latLon>41.30, -74.6</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW YORK</state>
+        <city>NYC-Central Park (S)</city>
+        <latLon>40.47, -73.58</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW YORK</state>
+        <city>NYC-Kennedy AP</city>
+        <latLon>40.39, -73.47</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW YORK</state>
+        <city>NYC-La Guardia AP</city>
+        <latLon>40.46, -73.54</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW YORK</state>
+        <city>Niagara Falls AP</city>
+        <latLon>43.6, -79.57</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW YORK</state>
+        <city>Olean</city>
+        <latLon>42.14, -78.22</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW YORK</state>
+        <city>Oneonta</city>
+        <latLon>42.31, -75.4</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW YORK</state>
+        <city>Oswego Co</city>
+        <latLon>43.28, -76.33</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW YORK</state>
+        <city>Plattsburg AFB</city>
+        <latLon>44.39, -73.28</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW YORK</state>
+        <city>Poughkeepsie</city>
+        <latLon>41.38, -73.55</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW YORK</state>
+        <city>Rochester AP</city>
+        <latLon>43.7, -77.40</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW YORK</state>
+        <city>Rome, Griffiss AFB</city>
+        <latLon>43.14, -75.25</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW YORK</state>
+        <city>Schenectady (S)</city>
+        <latLon>42.51, -73.57</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW YORK</state>
+        <city>Suffolk County AFB</city>
+        <latLon>40.51, -72.38</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW YORK</state>
+        <city>Syracuse AP</city>
+        <latLon>43.7, -76.7</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW YORK</state>
+        <city>Utica</city>
+        <latLon>43.9, -75.23</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NEW YORK</state>
+        <city>Watertown</city>
+        <latLon>43.59, -76.1</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NORTH CAROLINA</state>
+        <city>Asheville AP</city>
+        <latLon>35.26, -82.32</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NORTH CAROLINA</state>
+        <city>Charlotte AP</city>
+        <latLon>35.13, -80.56</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NORTH CAROLINA</state>
+        <city>Durham</city>
+        <latLon>35.52, -78.47</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NORTH CAROLINA</state>
+        <city>Elizabeth City AP</city>
+        <latLon>36.16, -76.11</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NORTH CAROLINA</state>
+        <city>Fayetteville, Pope AFB</city>
+        <latLon>35.10, -79.1</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NORTH CAROLINA</state>
+        <city>Goldsboro,Seymour-Johnson</city>
+        <latLon>35.20, -77.58</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NORTH CAROLINA</state>
+        <city>Greensboro AP (S)</city>
+        <latLon>36.5, -79.57</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NORTH CAROLINA</state>
+        <city>Greenville</city>
+        <latLon>35.37, -77.25</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NORTH CAROLINA</state>
+        <city>Henderson</city>
+        <latLon>36.22, -78.25</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NORTH CAROLINA</state>
+        <city>Hickory</city>
+        <latLon>35.45, -81.23</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NORTH CAROLINA</state>
+        <city>Jacksonville</city>
+        <latLon>34.50, -77.37</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NORTH CAROLINA</state>
+        <city>Lumberton</city>
+        <latLon>34.37, -79.4</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NORTH CAROLINA</state>
+        <city>New Bern AP</city>
+        <latLon>35.5, -77.3</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NORTH CAROLINA</state>
+        <city>Raleigh/Durham AP (S)</city>
+        <latLon>35.52, -78.47</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NORTH CAROLINA</state>
+        <city>Rocky Mount</city>
+        <latLon>35.58, -77.48</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NORTH CAROLINA</state>
+        <city>Wilmington AP</city>
+        <latLon>34.16, -77.55</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NORTH CAROLINA</state>
+        <city>Winston-Salem AP</city>
+        <latLon>36.8, -80.13</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NORTH DAKOTA</state>
+        <city>Bismarck AP (S)</city>
+        <latLon>46.46, -100.45</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NORTH DAKOTA</state>
+        <city>Devils Lake</city>
+        <latLon>48.7, -98.54</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NORTH DAKOTA</state>
+        <city>Dickinson AP</city>
+        <latLon>46.48, -102.48</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NORTH DAKOTA</state>
+        <city>Fargo AP</city>
+        <latLon>46.54, -96.48</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NORTH DAKOTA</state>
+        <city>Grand Forks AP</city>
+        <latLon>47.57, -97.24</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NORTH DAKOTA</state>
+        <city>Jamestown AP</city>
+        <latLon>46.55, -98.41</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NORTH DAKOTA</state>
+        <city>Minot AP</city>
+        <latLon>48.25, -101.21</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>NORTH DAKOTA</state>
+        <city>Williston</city>
+        <latLon>48.9, -103.35</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OHIO</state>
+        <city>Akron-Canton AP</city>
+        <latLon>40.55, -81.26</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OHIO</state>
+        <city>Ashtabula</city>
+        <latLon>41.51, -80.48</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OHIO</state>
+        <city>Athens</city>
+        <latLon>39.20, -82.6</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OHIO</state>
+        <city>Bowling Green</city>
+        <latLon>41.23, -83.38</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OHIO</state>
+        <city>Cambridge</city>
+        <latLon>40.4, -81.35</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OHIO</state>
+        <city>Chillicothe</city>
+        <latLon>39.21, -83.0</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OHIO</state>
+        <city>Cincinnati Co</city>
+        <latLon>39.9, -84.31</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OHIO</state>
+        <city>Cleveland AP (S)</city>
+        <latLon>41.24, -81.51</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OHIO</state>
+        <city>Columbus AP (S)</city>
+        <latLon>40.0, -82.53</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OHIO</state>
+        <city>Dayton AP</city>
+        <latLon>39.54, -84.13</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OHIO</state>
+        <city>Defiance</city>
+        <latLon>41.17, -84.23</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OHIO</state>
+        <city>Findlay AP</city>
+        <latLon>41.1, -83.40</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OHIO</state>
+        <city>Fremont</city>
+        <latLon>41.20, -83.7</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OHIO</state>
+        <city>Hamilton</city>
+        <latLon>39.24, -84.35</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OHIO</state>
+        <city>Lancaster</city>
+        <latLon>39.44, -82.38</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OHIO</state>
+        <city>Lima</city>
+        <latLon>40.42, -84.2</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OHIO</state>
+        <city>Mansfield AP</city>
+        <latLon>40.49, -82.31</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OHIO</state>
+        <city>Marion</city>
+        <latLon>40.36, -83.10</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OHIO</state>
+        <city>Middletown</city>
+        <latLon>39.31, -84.25</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OHIO</state>
+        <city>Newark</city>
+        <latLon>40.1, -82.28</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OHIO</state>
+        <city>Norwalk</city>
+        <latLon>41.16, -82.37</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OHIO</state>
+        <city>Portsmouth</city>
+        <latLon>38.45, -82.55</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OHIO</state>
+        <city>Sandusky Co</city>
+        <latLon>41.27, -82.43</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OHIO</state>
+        <city>Springfield</city>
+        <latLon>39.50, -83.50</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OHIO</state>
+        <city>Steubenville</city>
+        <latLon>40.23, -80.38</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OHIO</state>
+        <city>Toledo AP</city>
+        <latLon>41.36, -83.48</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OHIO</state>
+        <city>Warren</city>
+        <latLon>41.20, -80.51</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OHIO</state>
+        <city>Wooster</city>
+        <latLon>40.47, -81.55</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OHIO</state>
+        <city>Youngstown AP</city>
+        <latLon>41.16, -80.40</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OHIO</state>
+        <city>Zanesville AP</city>
+        <latLon>39.57, -81.54</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OKLAHOMA</state>
+        <city>Ada</city>
+        <latLon>34.47, -96.41</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OKLAHOMA</state>
+        <city>Altus AFB</city>
+        <latLon>34.39, -99.16</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OKLAHOMA</state>
+        <city>Ardmore</city>
+        <latLon>34.18, -97.1</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OKLAHOMA</state>
+        <city>Bartlesville</city>
+        <latLon>36.45, -96.0</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OKLAHOMA</state>
+        <city>Chickasha</city>
+        <latLon>35.3, -97.55</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OKLAHOMA</state>
+        <city>Enid, Vance AFB</city>
+        <latLon>36.21, -97.55</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OKLAHOMA</state>
+        <city>Lawton AP</city>
+        <latLon>34.34, -98.25</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OKLAHOMA</state>
+        <city>McAlester</city>
+        <latLon>34.50, -95.55</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OKLAHOMA</state>
+        <city>Muskogee AP</city>
+        <latLon>35.40, -95.22</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OKLAHOMA</state>
+        <city>Norman</city>
+        <latLon>35.15, -97.29</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OKLAHOMA</state>
+        <city>Oklahoma City AP (S)</city>
+        <latLon>35.24, -97.36</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OKLAHOMA</state>
+        <city>Ponca City</city>
+        <latLon>36.44, -97.6</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OKLAHOMA</state>
+        <city>Seminole</city>
+        <latLon>35.14, -96.40</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OKLAHOMA</state>
+        <city>Stillwater (S)</city>
+        <latLon>36.10, -97.5</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OKLAHOMA</state>
+        <city>Tulsa AP</city>
+        <latLon>36.12, -95.54</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OKLAHOMA</state>
+        <city>Woodward</city>
+        <latLon>36.36, -99.31</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OREGON</state>
+        <city>Albany</city>
+        <latLon>44.38, -123.7</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OREGON</state>
+        <city>Astoria AP (S)</city>
+        <latLon>46.9, -123.53</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OREGON</state>
+        <city>Baker AP</city>
+        <latLon>44.50, -117.49</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OREGON</state>
+        <city>Bend</city>
+        <latLon>44.4, -121.19</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OREGON</state>
+        <city>Corvallis (S)</city>
+        <latLon>44.30, -123.17</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OREGON</state>
+        <city>Eugene AP</city>
+        <latLon>44.7, -123.13</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OREGON</state>
+        <city>Grants Pass</city>
+        <latLon>42.26, -123.19</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OREGON</state>
+        <city>Klamath Falls AP</city>
+        <latLon>42.9, -121.44</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OREGON</state>
+        <city>Medford AP (S)</city>
+        <latLon>42.22, -122.52</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OREGON</state>
+        <city>Pendleton AP</city>
+        <latLon>45.41, -118.51</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OREGON</state>
+        <city>Portland AP</city>
+        <latLon>45.36, -122.36</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OREGON</state>
+        <city>Portland Co</city>
+        <latLon>45.32, -122.40</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OREGON</state>
+        <city>Roseburg AP</city>
+        <latLon>43.14, -123.22</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OREGON</state>
+        <city>Salem AP</city>
+        <latLon>44.55, -123.1</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>OREGON</state>
+        <city>The Dalles</city>
+        <latLon>45.36, -121.12</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>PENNSYLVANIA</state>
+        <city>Allentown AP</city>
+        <latLon>40.39, -75.26</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>PENNSYLVANIA</state>
+        <city>Altoona Co</city>
+        <latLon>40.18, -78.19</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>PENNSYLVANIA</state>
+        <city>Butler</city>
+        <latLon>40.52, -79.54</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>PENNSYLVANIA</state>
+        <city>Chambersburg</city>
+        <latLon>39.56, -77.38</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>PENNSYLVANIA</state>
+        <city>Erie AP</city>
+        <latLon>42.5, -80.11</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>PENNSYLVANIA</state>
+        <city>Harrisburg AP</city>
+        <latLon>40.12, -76.46</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>PENNSYLVANIA</state>
+        <city>Johnstown</city>
+        <latLon>40.19, -78.50</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>PENNSYLVANIA</state>
+        <city>Lancaster</city>
+        <latLon>40.7, -76.18</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>PENNSYLVANIA</state>
+        <city>Meadville</city>
+        <latLon>41.38, -80.10</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>PENNSYLVANIA</state>
+        <city>New Castle</city>
+        <latLon>41.1, -80.22</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>PENNSYLVANIA</state>
+        <city>Philadelphia AP</city>
+        <latLon>39.53, -75.15</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>PENNSYLVANIA</state>
+        <city>Pittsburgh AP</city>
+        <latLon>40.30, -80.13</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>PENNSYLVANIA</state>
+        <city>Pittsburgh Co</city>
+        <latLon>40.27, -80.0</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>PENNSYLVANIA</state>
+        <city>Reading Co</city>
+        <latLon>40.20, -75.38</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>PENNSYLVANIA</state>
+        <city>Scranton/Wilkes-Barre</city>
+        <latLon>41.20, -75.44</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>PENNSYLVANIA</state>
+        <city>State College (S)</city>
+        <latLon>40.48, -77.52</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>PENNSYLVANIA</state>
+        <city>Sunbury</city>
+        <latLon>40.53, -76.46</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>PENNSYLVANIA</state>
+        <city>Uniontown</city>
+        <latLon>39.55, -79.43</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>PENNSYLVANIA</state>
+        <city>Warren</city>
+        <latLon>41.51, -79.8</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>PENNSYLVANIA</state>
+        <city>West Chester</city>
+        <latLon>39.58, -75.38</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>PENNSYLVANIA</state>
+        <city>Williamsport AP</city>
+        <latLon>41.15, -76.55</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>PENNSYLVANIA</state>
+        <city>York</city>
+        <latLon>39.55, -76.45</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>RHODE ISLAND</state>
+        <city>Newport (S)</city>
+        <latLon>41.30, -71.20</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>RHODE ISLAND</state>
+        <city>Providence AP</city>
+        <latLon>41.44, -71.26</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>SOUTH CAROLINA</state>
+        <city>Anderson</city>
+        <latLon>34.30, -82.43</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>SOUTH CAROLINA</state>
+        <city>Charleston AFB (S)</city>
+        <latLon>32.54, -80.2</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>SOUTH CAROLINA</state>
+        <city>Charleston Co</city>
+        <latLon>32.54, -79.58</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>SOUTH CAROLINA</state>
+        <city>Columbia AP</city>
+        <latLon>33.57, -81.7</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>SOUTH CAROLINA</state>
+        <city>Florence AP</city>
+        <latLon>34.11, -79.43</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>SOUTH CAROLINA</state>
+        <city>Georgetown</city>
+        <latLon>33.23, -79.17</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>SOUTH CAROLINA</state>
+        <city>Greenville AP</city>
+        <latLon>34.54, -82.13</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>SOUTH CAROLINA</state>
+        <city>Greenwood</city>
+        <latLon>34.10, -82.7</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>SOUTH CAROLINA</state>
+        <city>Orangeburg</city>
+        <latLon>33.30, -80.52</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>SOUTH CAROLINA</state>
+        <city>Rock Hill</city>
+        <latLon>34.59, -80.58</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>SOUTH CAROLINA</state>
+        <city>Spartanburg AP</city>
+        <latLon>34.58, -82.0</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>SOUTH CAROLINA</state>
+        <city>Sumter, Shaw AFB</city>
+        <latLon>33.54, -80.22</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>SOUTH DAKOTA</state>
+        <city>Aberdeen AP</city>
+        <latLon>45.27, -98.26</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>SOUTH DAKOTA</state>
+        <city>Brookings</city>
+        <latLon>44.18, -96.48</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>SOUTH DAKOTA</state>
+        <city>Huron AP</city>
+        <latLon>44.23, -98.13</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>SOUTH DAKOTA</state>
+        <city>Mitchell</city>
+        <latLon>43.41, -98.1</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>SOUTH DAKOTA</state>
+        <city>Pierre AP</city>
+        <latLon>44.23, -100.17</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>SOUTH DAKOTA</state>
+        <city>Rapid City AP (S)</city>
+        <latLon>44.3, -103.4</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>SOUTH DAKOTA</state>
+        <city>Sioux Falls AP</city>
+        <latLon>43.34, -96.44</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>SOUTH DAKOTA</state>
+        <city>Watertown AP</city>
+        <latLon>44.55, -97.9</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>SOUTH DAKOTA</state>
+        <city>Yankton</city>
+        <latLon>42.55, -97.23</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TENNESSEE</state>
+        <city>Athens</city>
+        <latLon>35.26, -84.35</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TENNESSEE</state>
+        <city>Bristol-Tri City AP</city>
+        <latLon>36.29, -82.24</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TENNESSEE</state>
+        <city>Chattanooga AP</city>
+        <latLon>35.2, -85.12</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TENNESSEE</state>
+        <city>Clarksville</city>
+        <latLon>36.33, -87.22</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TENNESSEE</state>
+        <city>Columbia</city>
+        <latLon>35.38, -87.2</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TENNESSEE</state>
+        <city>Dyersburg</city>
+        <latLon>36.1, -89.24</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TENNESSEE</state>
+        <city>Greenville</city>
+        <latLon>36.4, -82.50</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TENNESSEE</state>
+        <city>Jackson AP</city>
+        <latLon>35.36, -88.55</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TENNESSEE</state>
+        <city>Knoxville AP</city>
+        <latLon>35.49, -83.59</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TENNESSEE</state>
+        <city>Memphis AP</city>
+        <latLon>35.3, -90.0</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TENNESSEE</state>
+        <city>Murfreesboro</city>
+        <latLon>34.55, -86.28</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TENNESSEE</state>
+        <city>Nashville AP (S)</city>
+        <latLon>36.7, -86.41</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TENNESSEE</state>
+        <city>Tullahoma</city>
+        <latLon>35.23, -86.5</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Abilene AP</city>
+        <latLon>32.25, -99.41</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Alice AP</city>
+        <latLon>27.44, -98.2</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Amarillo AP</city>
+        <latLon>35.14, -100.42</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Austin AP</city>
+        <latLon>30.18, -97.42</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Bay City</city>
+        <latLon>29.0, -95.58</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Beaumont</city>
+        <latLon>29.57, -94.1</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Beeville</city>
+        <latLon>28.22, -97.40</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Big Spring AP (S)</city>
+        <latLon>32.18, -101.27</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Brownsville AP (S)</city>
+        <latLon>25.54, -97.26</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Brownwood</city>
+        <latLon>31.48, -98.57</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Bryan AP</city>
+        <latLon>30.40, -96.33</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Corpus Christi AP</city>
+        <latLon>27.46, -97.30</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Corsicana</city>
+        <latLon>32.5, -96.28</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Dallas AP</city>
+        <latLon>32.51, -96.51</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Del Rio, Laughlin AFB</city>
+        <latLon>29.22, -100.47</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Denton</city>
+        <latLon>33.12, -97.6</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Eagle Pass</city>
+        <latLon>28.52, -100.32</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>El Paso AP (S)</city>
+        <latLon>31.48, -106.24</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Fort Worth AP (S)</city>
+        <latLon>32.50, -97.3</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Galveston AP</city>
+        <latLon>29.18, -94.48</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Greenville</city>
+        <latLon>33.4, -96.3</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Harlingen</city>
+        <latLon>26.14, -97.39</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Houston AP</city>
+        <latLon>29.58, -95.21</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Houston Co</city>
+        <latLon>29.59, -95.22</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Huntsville</city>
+        <latLon>30.43, -95.33</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Killeen, Robert Gray AAF</city>
+        <latLon>31.5, -97.41</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Lamesa</city>
+        <latLon>32.42, -101.56</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Laredo AFB</city>
+        <latLon>27.32, -99.27</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Longview</city>
+        <latLon>32.28, -94.44</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Lubbock AP</city>
+        <latLon>33.39, -101.49</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Lufkin AP</city>
+        <latLon>31.25, -94.48</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Mcallen</city>
+        <latLon>26.12, -98.13</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Midland AP (S)</city>
+        <latLon>31.57, -102.11</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Mineral Wells AP</city>
+        <latLon>32.47, -98.4</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Palestine Co</city>
+        <latLon>31.47, -95.38</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Pampa</city>
+        <latLon>35.32, -100.59</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Pecos</city>
+        <latLon>31.25, -103.30</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Plainview</city>
+        <latLon>34.11, -101.42</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Port Arthur AP</city>
+        <latLon>29.57, -94.1</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>San Angelo.Goodfellow AFB</city>
+        <latLon>31.26, -100.24</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>San Antonio AP (S)</city>
+        <latLon>29.32, -98.28</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Sherman, Perrin AFB</city>
+        <latLon>33.43, -96.40</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Snyder</city>
+        <latLon>32.43, -100.55</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Temple</city>
+        <latLon>31.6, -97.21</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Tyler AP</city>
+        <latLon>32.21, -95.16</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Vernon</city>
+        <latLon>34.10, -99.18</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Victoria AP</city>
+        <latLon>28.51, -96.55</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Waco AP</city>
+        <latLon>31.37, -97.13</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>TEXAS</state>
+        <city>Wichita Falls AP</city>
+        <latLon>33.58, -98.29</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>UTAH</state>
+        <city>Cedar City AP</city>
+        <latLon>37.42, -113.6</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>UTAH</state>
+        <city>Logan</city>
+        <latLon>41.45, -111.49</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>UTAH</state>
+        <city>Moab</city>
+        <latLon>38.36, -109.36</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>UTAH</state>
+        <city>Ogden AP</city>
+        <latLon>41.12, -112.1</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>UTAH</state>
+        <city>Price</city>
+        <latLon>39.37, -110.50</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>UTAH</state>
+        <city>Provo</city>
+        <latLon>40.13, -111.43</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>UTAH</state>
+        <city>Richfield</city>
+        <latLon>38.46, -112.5</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>UTAH</state>
+        <city>St George Co</city>
+        <latLon>37.2, -113.31</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>UTAH</state>
+        <city>Salt Lake City AP (S)</city>
+        <latLon>40.46, -111.58</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>UTAH</state>
+        <city>Vernal AP</city>
+        <latLon>40.27, -109.31</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>VERMONT</state>
+        <city>Barre</city>
+        <latLon>44.12, -72.31</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>VERMONT</state>
+        <city>Burlington AP (S)</city>
+        <latLon>44.28, -73.9</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>VERMONT</state>
+        <city>Rutland</city>
+        <latLon>43.36, -72.58</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>VIRGINIA</state>
+        <city>Charlottesville</city>
+        <latLon>38.2, -78.31</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>VIRGINIA</state>
+        <city>Danville AP</city>
+        <latLon>36.34, -79.20</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>VIRGINIA</state>
+        <city>Fredericksburg</city>
+        <latLon>38.18, -77.28</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>VIRGINIA</state>
+        <city>Harrisonburg</city>
+        <latLon>38.27, -78.54</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>VIRGINIA</state>
+        <city>Lynchburg AP</city>
+        <latLon>37.20, -79.12</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>VIRGINIA</state>
+        <city>Norfolk AP</city>
+        <latLon>36.54, -76.12</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>VIRGINIA</state>
+        <city>Petersburg</city>
+        <latLon>37.11, -77.31</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>VIRGINIA</state>
+        <city>Richmond AP</city>
+        <latLon>37.30, -77.20</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>VIRGINIA</state>
+        <city>Roanoke AP</city>
+        <latLon>37.19, -79.58</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>VIRGINIA</state>
+        <city>Staunton</city>
+        <latLon>38.16, -78.54</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>VIRGINIA</state>
+        <city>Winchester</city>
+        <latLon>39.12, -78.10</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WASHINGTON</state>
+        <city>Aberdeen</city>
+        <latLon>46.59, -123.49</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WASHINGTON</state>
+        <city>Bellingham AP</city>
+        <latLon>48.48, -122.32</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WASHINGTON</state>
+        <city>Bremerton</city>
+        <latLon>47.34, -122.40</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WASHINGTON</state>
+        <city>Ellensburg AP</city>
+        <latLon>47.2, -120.31</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WASHINGTON</state>
+        <city>Everett, Paine AFB</city>
+        <latLon>47.55, -122.17</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WASHINGTON</state>
+        <city>Kennewick</city>
+        <latLon>46.13, -119.8</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WASHINGTON</state>
+        <city>Longview</city>
+        <latLon>46.10, -122.56</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WASHINGTON</state>
+        <city>Moses Lake, Larson AFB</city>
+        <latLon>47.12, -119.19</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WASHINGTON</state>
+        <city>Olympia AP</city>
+        <latLon>46.58, -122.54</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WASHINGTON</state>
+        <city>Port Angeles</city>
+        <latLon>48.7, -123.26</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WASHINGTON</state>
+        <city>Seattle-Boeing Field</city>
+        <latLon>47.32, -122.18</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WASHINGTON</state>
+        <city>Seattle Co (S)</city>
+        <latLon>47.39, -122.18</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WASHINGTON</state>
+        <city>Seattle-Tacoma AP (S)</city>
+        <latLon>47.27, -122.18</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WASHINGTON</state>
+        <city>Spokane AP (S)</city>
+        <latLon>47.38, -117.31</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WASHINGTON</state>
+        <city>Tacoma, McChord AFB</city>
+        <latLon>47.15, -122.30</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WASHINGTON</state>
+        <city>Walla Walla AP</city>
+        <latLon>46.6, -118.17</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WASHINGTON</state>
+        <city>Wenatchee</city>
+        <latLon>47.25, -120.19</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WASHINGTON</state>
+        <city>Yakima AP</city>
+        <latLon>46.34, -120.32</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WEST VIRGINIA</state>
+        <city>Beckley</city>
+        <latLon>37.47, -81.7</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WEST VIRGINIA</state>
+        <city>Bluefield AP</city>
+        <latLon>37.18, -81.13</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WEST VIRGINIA</state>
+        <city>Charleston AP</city>
+        <latLon>38.22, -81.36</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WEST VIRGINIA</state>
+        <city>Clarksburg</city>
+        <latLon>39.16, -80.21</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WEST VIRGINIA</state>
+        <city>Elkins AP</city>
+        <latLon>38.53, -79.51</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WEST VIRGINIA</state>
+        <city>Huntington Co</city>
+        <latLon>38.25, -82.30</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WEST VIRGINIA</state>
+        <city>Martinsburg AP</city>
+        <latLon>39.24, -77.59</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WEST VIRGINIA</state>
+        <city>Morgantown AP</city>
+        <latLon>39.39, -79.55</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WEST VIRGINIA</state>
+        <city>Parkersburg Co</city>
+        <latLon>39.16, -81.34</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WEST VIRGINIA</state>
+        <city>Wheeling</city>
+        <latLon>40.7, -80.42</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WISCONSIN</state>
+        <city>Appleton</city>
+        <latLon>44.15, -88.23</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WISCONSIN</state>
+        <city>Ashland</city>
+        <latLon>46.34, -90.58</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WISCONSIN</state>
+        <city>Beloit</city>
+        <latLon>42.30, -89.2</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WISCONSIN</state>
+        <city>Eau Claire AP</city>
+        <latLon>44.52, -91.29</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WISCONSIN</state>
+        <city>Fond Du Lac</city>
+        <latLon>43.48, -88.27</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WISCONSIN</state>
+        <city>Green Bay AP</city>
+        <latLon>44.29, -88.8</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WISCONSIN</state>
+        <city>La Crosse AP</city>
+        <latLon>43.52, -91.15</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WISCONSIN</state>
+        <city>Madison AP (S)</city>
+        <latLon>43.8, -89.20</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WISCONSIN</state>
+        <city>Manitowoc</city>
+        <latLon>44.6, -87.41</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WISCONSIN</state>
+        <city>Marinette</city>
+        <latLon>45.6, -87.38</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WISCONSIN</state>
+        <city>Milwaukee AP</city>
+        <latLon>42.57, -87.54</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WISCONSIN</state>
+        <city>Racine</city>
+        <latLon>42.43, -87.51</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WISCONSIN</state>
+        <city>Sheboygan</city>
+        <latLon>43.45, -87.43</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WISCONSIN</state>
+        <city>Stevens Point</city>
+        <latLon>44.30, -89.34</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WISCONSIN</state>
+        <city>Waukesha</city>
+        <latLon>43.1, -88.14</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WISCONSIN</state>
+        <city>Wausau AP</city>
+        <latLon>44.55, -89.37</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WYOMING</state>
+        <city>Casper AP</city>
+        <latLon>42.55, -106.28</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WYOMING</state>
+        <city>Cheyenne</city>
+        <latLon>41.9, -104.49</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WYOMING</state>
+        <city>Cody AP</city>
+        <latLon>44.33, -109.4</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WYOMING</state>
+        <city>Evanston</city>
+        <latLon>41.16, -110.57</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WYOMING</state>
+        <city>Lander AP (S)</city>
+        <latLon>42.49, -108.44</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WYOMING</state>
+        <city>Laramie AP (S)</city>
+        <latLon>41.19, -105.41</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WYOMING</state>
+        <city>Newcastle</city>
+        <latLon>43.51, -104.13</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WYOMING</state>
+        <city>Rawlins</city>
+        <latLon>41.48, -107.12</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WYOMING</state>
+        <city>Rock Springs AP</city>
+        <latLon>41.36, -109.0</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WYOMING</state>
+        <city>Sheridan AP</city>
+        <latLon>44.46, -106.58</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>WYOMING</state>
+        <city>Torrington</city>
+        <latLon>42.5, -104.13</latLon>
+    </cityMapPoint>  
+</cities>

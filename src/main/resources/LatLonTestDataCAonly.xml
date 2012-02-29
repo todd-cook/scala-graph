@@ -1,0 +1,308 @@
+<?xml version='1.0' encoding='UTF8'?>
+<cities>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Bakersfield AP</city>
+        <latLon>35.25, -119.3</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Barstow AP</city>
+        <latLon>34.51, -116.47</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Blythe AP</city>
+        <latLon>33.37, -114.43</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Burbank AP</city>
+        <latLon>34.12, -118.21</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Chico</city>
+        <latLon>39.48, -121.51</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Concord</city>
+        <latLon>37.58, -121.59</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Covina</city>
+        <latLon>34.5, -117.52</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Crescent City AP</city>
+        <latLon>41.46, -124.12</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Downey</city>
+        <latLon>33.56, -118.8</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>El Cajon</city>
+        <latLon>32.49, -116.58</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>El Cerrito AP (S)</city>
+        <latLon>32.49, -115.40</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Escondido</city>
+        <latLon>33.7, -117.5</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Eureka/Arcata AP</city>
+        <latLon>40.59, -124.6</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Fairfield-Trafis AFB</city>
+        <latLon>38.16, -121.56</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Fresno AP (S)</city>
+        <latLon>36.46, -119.43</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Hamilton AFB</city>
+        <latLon>38.4, -122.30</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Laguna Beach</city>
+        <latLon>33.33, -117.47</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Livermore</city>
+        <latLon>37.42, -121.57</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Lompoc, Vandenberg AFB</city>
+        <latLon>34.43, -120.34</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Long Beach AP</city>
+        <latLon>33.49, -118.9</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Los Angeles AP (S)</city>
+        <latLon>33.56, -118.24</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Los Angeles CO (S)</city>
+        <latLon>34.3, -118.14</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Merced-Castle AFB</city>
+        <latLon>37.23, -120.34</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Modesto</city>
+        <latLon>37.39, -121.0</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Monterey</city>
+        <latLon>36.36, -121.54</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Napa</city>
+        <latLon>38.13, -122.17</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Needles AP</city>
+        <latLon>34.36, -114.37</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Oakland AP</city>
+        <latLon>37.49, -122.19</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Oceanside</city>
+        <latLon>33.14, -117.25</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Ontario</city>
+        <latLon>34.3, -117.36</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Oxnard</city>
+        <latLon>34.12, -119.11</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Palmdale AP</city>
+        <latLon>34.38, -118.6</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Palm Springs</city>
+        <latLon>33.49, -116.32</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Pasadena</city>
+        <latLon>34.9, -118.9</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Petaluma</city>
+        <latLon>38.14, -122.38</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Pomona Co</city>
+        <latLon>34.3, -117.45</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Redding AP</city>
+        <latLon>40.31, -122.18</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Redlands</city>
+        <latLon>34.3, -117.11</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Richmond</city>
+        <latLon>37.56, -122.21</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Riverside-March AFB (S)</city>
+        <latLon>33.54, -117.15</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Sacramento AP</city>
+        <latLon>38.31, -121.30</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Salinas AP</city>
+        <latLon>36.40, -121.36</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>San Bernadino, Norton AFB</city>
+        <latLon>34.8, -117.16</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>San Diego AP</city>
+        <latLon>32.44, -117.10</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>San Fernando</city>
+        <latLon>34.17, -118.28</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>San Francisco AP</city>
+        <latLon>37.37, -122.23</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>San Francisco Co</city>
+        <latLon>37.46, -122.26</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>San Jose AP</city>
+        <latLon>37.22, -121.56</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>San Louis Obispo</city>
+        <latLon>35.20, -120.43</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Santa Ana AP</city>
+        <latLon>33.45, -117.52</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Santa Barbara MAP</city>
+        <latLon>34.26, -119.50</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Santa Cruz</city>
+        <latLon>36.59, -122.1</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Santa Maria AP (S)</city>
+        <latLon>34.54, -120.27</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Santa Monica CIC</city>
+        <latLon>34.1, -118.29</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Santa Paula</city>
+        <latLon>34.21, -119.5</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Santa Rosa</city>
+        <latLon>38.31, -122.49</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Stockton AP</city>
+        <latLon>37.54, -121.15</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Ukiah</city>
+        <latLon>39.9, -123.12</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Visalia</city>
+        <latLon>36.20, -119.18</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Yreka</city>
+        <latLon>41.43, -122.38</latLon>
+    </cityMapPoint>
+    <cityMapPoint>
+        <state>CALIFORNIA</state>
+        <city>Yuba City</city>
+        <latLon>39.8, -121.36</latLon>
+    </cityMapPoint>
+</cities>
