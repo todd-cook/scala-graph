@@ -17,12 +17,6 @@ class BFSImpl (val graph:Graph ) {
         var paths = new ListBuffer[List[Node]]()
                var path = new ListBuffer[Node]()
 
-//        def init(){
-//      graph.getNodes.foreach(n =>
-//        n.setState(NodeState.INITIAL)
-//        dfs(n)
-//        )
-//        }
 
    def bfs(node:Node)  :Int ={
 
@@ -32,7 +26,7 @@ class BFSImpl (val graph:Graph ) {
           if(n.getState == NodeState.UNVISITED) {
                 n.setState(NodeState.VISITING)
                 stack.push(n)
-                dfs (n)
+                bfs (n)
                 }
           })
         node.setState(NodeState.VISITED)

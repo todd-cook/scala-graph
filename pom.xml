@@ -56,7 +56,7 @@
                 <version>2.9.1</version>
                 <configuration>
                     <jvmArgs>
-                    <jvmArg>-Xmx1024m</jvmArg>
+                    <jvmArg>-Xmx2024m</jvmArg>
                     </jvmArgs>
                     <args>
                         <arg>-unchecked</arg>
