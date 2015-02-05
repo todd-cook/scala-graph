@@ -2,6 +2,11 @@ package com.cookconsulting.scala.graphing;
 
 import org.scalatest.junit.AssertionsForJUnit
 import org.junit.Test
+import scala.Int;
+import scala.collection.mutable.ListBuffer
+import org.junit.Assert.assertEquals
+import java.io.File
+import java.util.Stack
 
 /**
  *  

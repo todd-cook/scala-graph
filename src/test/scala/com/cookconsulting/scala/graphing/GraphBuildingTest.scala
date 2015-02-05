@@ -52,7 +52,7 @@ class GraphBuildingTest extends AssertionsForJUnit {
      */
     graph.getNodes().foreach(n => {
       // don't allow self inclusion
-      var verts = vertices.filterNot(a => a == n) //.vertex.x && a.y == n.vertex.y)
+      var verts = vertices.filterNot(a => a == n.vertex) //.vertex.x && a.y == n.vertex.y)
       verts.foreach(b => {
         var dist =0D
          if (vertices(0).isInstanceOf[LatLon]){

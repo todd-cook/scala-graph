@@ -24,7 +24,7 @@ class BFSImpl (val graph:Graph ) {
 //        )
 //        }
 
-   def dfs(node:Node)  :Int ={
+   def bfs(node:Node)  :Int ={
 
      //   node.setState(NodeState.VISITING)
           node.getAdjacents().foreach( v => {
@@ -39,7 +39,7 @@ class BFSImpl (val graph:Graph ) {
                              0
    }
 
-    def dfsMaxChain (node: Node ) :List[Node] = {
+    def bfsMaxChain (node: Node ) :List[Node] = {
 
            if (node.getAdjacents().length == 0)
                return List(node)

@@ -9,7 +9,6 @@ import collection.mutable.{ListBuffer, HashMap}
  */
 
 class AStarImpl (val graph: Graph) {
-
   /**
    * The set of tentative nodes to be evaluated, initially containing the start node
    */
@@ -25,16 +24,12 @@ class AStarImpl (val graph: Graph) {
 
   def reconstructPath(x: Path): List[Node] = {
     var pathNodes = new ListBuffer[Node]()
-    var n = x.point
+    var n = x.node
     pathNodes.append(n)
     var pathWalker = x
     while (pathWalker.parent != null) {
-//      var oldNode = pathWalker.point
       pathWalker = pathWalker.parent
-      var newNode = pathWalker.point
-//      newNode.setMileageTo(Converter.metersToMiles(
-//        Converter.distanceHaversine((oldNode.vertex.x, oldNode.vertex.y),
-//                                    (newNode.vertex.x, newNode.vertex.y))))
+      var newNode = pathWalker.node
       pathNodes.append(newNode)
     }
     pathNodes.toList
@@ -48,7 +43,7 @@ class AStarImpl (val graph: Graph) {
    */
   def scoreF(p: Path, candidateNode: Node, goal: Node): Double = {
 
-    var g = scoreG(p.point, candidateNode)
+    var g = scoreG(p.node, candidateNode)
     if (p.parent != null) {
       g += p.parent.g
     }
@@ -59,33 +54,29 @@ class AStarImpl (val graph: Graph) {
   }
 
   /**
-   * Cost from start along best known path.
+   * Cost from one node to the next; used to find the best path.
    * @param candidateNode The node we are leaving.
    * @param toNode The node we are reaching.
    * @return The cost of the operation.
    */
   def scoreG(candidateNode: Node, toNode: Node): Double = {
-              //TODO add type checking
-               candidateNode.vertex.cost(toNode.vertex)
-//    Converter.distanceHaversine((candidateNode.vertex.x, candidateNode.vertex.y),
-//                                (toNode.vertex.x, toNode.vertex.y))
+               //candidateNode.vertex.cost(toNode.vertex)
+               //graph.getEdgeCost(candidateNode.vertex, toNode.vertex)
+                candidateNode.getEdges.filterNot(e => e.end == toNode.vertex)(0).getCost
   }
 
   /**
    * The heuristic cost estimate; estimated cost to reach a goal node.
-   * An admissible heuristic never gives a cost bigger than the real one; so
-   * we use a straight line; distance Haversine
+   * An admissible heuristic never gives a cost bigger than the real one
    *
    * @param candidateNode The node we are leaving.
    * @param goal The final destination node
    * @return The estimated cost to traverse the distance
    */
   def scoreH(candidateNode: Node, goal: Node): Double = {
-          // todo add type checking
-
-            candidateNode.vertex.cost(goal.vertex)
-//    Converter.distanceHaversine((candidateNode.vertex.x, candidateNode.vertex.y),
-//                                (goal.vertex.x, goal.vertex.y))
+     //       candidateNode.vertex.cost(goal.vertex)
+   //  graph.getEdgeCost(candidateNode.vertex, goal.vertex)
+     candidateNode.vertex.cost(goal.vertex)
   }
 
   /**
@@ -94,10 +85,10 @@ class AStarImpl (val graph: Graph) {
    * @param path The path to expand.
    */
   def expand(path: Path, goal: Node): Unit = {
-    var p = path.point
-    var min = mindists.get(path.point)
+    var p = path.node
+    var min = mindists.get(path.node)
     if (min == None || min.get.doubleValue > path.f.doubleValue) {
-      mindists.put(path.point, path.f)
+      mindists.put(path.node, path.f)
     }
     else {
       return
@@ -112,13 +103,16 @@ class AStarImpl (val graph: Graph) {
     }
   }
 
+  /**
+   * Find the shortest path
+   */
   def compute(start: Node, goal: Node): List[Node] = {
     var root = new Path(start)
     expand(root, goal)
     openset.add(root)
     while (!openset.isEmpty) {
       var x = openset.poll()
-      if (x.point == goal) {
+      if (x.node == goal) {
         return reconstructPath(x)
       }
       expand(x, goal)
