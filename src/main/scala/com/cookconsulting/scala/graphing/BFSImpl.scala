@@ -6,12 +6,12 @@ import scala.collection.mutable.ListBuffer;
 import java.util.Stack;
 
 /**
- *    TODO clean up or delete this file
+ *  
  * @author : ToddCook
  * @since : 2/23/12 12:28 PM
  */
 
-class DFSImpl (val graph:Graph ) {
+class BFSImpl (val graph:Graph ) {
 
     var stack = new Stack[Node] ()
         var paths = new ListBuffer[List[Node]]()
