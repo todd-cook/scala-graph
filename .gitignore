@@ -50,3 +50,4 @@ dist
 /.project
 /RUNNING_PID
 /.settings
+src/test/java/
