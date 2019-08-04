@@ -5,16 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>scala-graph</groupId>
     <artifactId>scala-graph</artifactId>
-    <version>1.0</version>
-  <properties>
-        <!--previous working combo -->
-        <!--<scala.version>2.8.1.RC4</scala.version>-->
-        <!--<scalatest.artifact>scalatest</scalatest.artifact>-->
-        <!--<scalatest.version>1.3</scalatest.version>-->
-      <scala.version>2.9.0.RC4</scala.version>
-      <!--<scala.version>2.10.0-M2</scala.version>-->
-        <scalatest.artifact>scalatest_2.9.0.RC4</scalatest.artifact>
-        <scalatest.version>1.4.RC4</scalatest.version>
+    <version>1.1</version>
+    <properties>
+        <scala.version>2.13.0</scala.version>
+        <scalatest.artifact>scalatest_3.0.8</scalatest.artifact>
+        <scalatest.version>3.0.8</scalatest.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
     <dependencies>
@@ -25,10 +20,20 @@
             <scope>compile</scope>
         </dependency>
         <dependency>
+            <groupId>org.scala-lang.modules</groupId>
+            <artifactId>scala-xml_2.13</artifactId>
+            <version>1.2.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.scalactic</groupId>
+            <artifactId>scalactic_2.13</artifactId>
+            <version>3.0.8</version>
+        </dependency>
+        <dependency>
             <groupId>org.scalatest</groupId>
-            <artifactId>${scalatest.artifact}</artifactId>
-                  <version>${scalatest.version}</version>
-            <scope>provided</scope>
+            <artifactId>scalatest_2.13</artifactId>
+            <version>3.0.8</version>
+            <scope>test</scope>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
@@ -56,7 +61,7 @@
                 <version>2.9.1</version>
                 <configuration>
                     <jvmArgs>
-                    <jvmArg>-Xmx2024m</jvmArg>
+                        <jvmArg>-Xmx2024m</jvmArg>
                     </jvmArgs>
                     <args>
                         <arg>-unchecked</arg>
@@ -77,8 +82,8 @@
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>2.3.2</version>
                 <configuration>
-                    <source>1.6</source>
-                    <target>1.6</target>
+                    <source>1.8</source>
+                    <target>1.8</target>
                 </configuration>
             </plugin>
         </plugins>
@@ -112,7 +117,6 @@
         <developer>
             <id>Todd</id>
             <name>Cook</name>
-            <email>todd.g.cook AT gmail.com</email>
             <roles>
                 <role>architect</role>
                 <role>developer</role>
