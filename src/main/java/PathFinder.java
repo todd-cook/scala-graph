@@ -18,9 +18,6 @@
 
 import java.util.*;
 
-/*
- * Example.
- */
 public class PathFinder extends AStar<PathFinder.Node>
 {
 		private int[][] map;
@@ -98,12 +95,8 @@ public class PathFinder extends AStar<PathFinder.Node>
 				}
 
 				long begin = System.currentTimeMillis();
-
 				List<Node> nodes = pf.compute(new PathFinder.Node(0, 0));
-				
 				long end = System.currentTimeMillis();
-
-
 				System.out.println("Time = " + (end - begin) + " ms" );
 				System.out.println("Expanded = " + pf.getExpandedCounter());
 				System.out.println("Cost = " + pf.getCost());
@@ -117,6 +110,5 @@ public class PathFinder extends AStar<PathFinder.Node>
 						System.out.println();
 				}
 		}
-
 }
 

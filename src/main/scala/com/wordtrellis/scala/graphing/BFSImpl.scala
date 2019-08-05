@@ -7,13 +7,11 @@ import scala.collection.mutable.ListBuffer
   * @author : ToddCook
   *
   */
-
 class BFSImpl(val graph: Graph) {
 
   val stack = new java.util.Stack[Node]()
   //  var paths = new ListBuffer[List[Node]]()
   //  var path = new ListBuffer[Node]()
-
 
   def bfs(node: Node): Int = {
 

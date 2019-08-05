@@ -10,7 +10,7 @@ import scala.collection.mutable.ListBuffer
 class LongestPaths(val graph: Graph) {
 
   val paths = new ListBuffer[List[Node]]()
-  var path = new ListBuffer[Node]()
+  var path  = new ListBuffer[Node]()
 
   def find(): List[List[Node]] = {
     graph.getNodes.foreach(n => {
@@ -27,7 +27,6 @@ class LongestPaths(val graph: Graph) {
     paths.toList.filter(z => z.length == longest.length)
   }
 
-
   def createPaths(nodeList: List[Node]): Unit = {
     nodeList.last.getAdjacents.foreach(v => {
       val n = graph.find(v)
@@ -38,8 +37,6 @@ class LongestPaths(val graph: Graph) {
           createPaths(newList)
         }
       }
-    }
-    )
+    })
   }
 }
-

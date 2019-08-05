@@ -1,6 +1,5 @@
 package com.wordtrellis.scala.graphing
 
-
 import java.io.File
 
 import org.scalatest.FlatSpec
@@ -9,7 +8,6 @@ import org.scalatest.FlatSpec
   * @author todd
   *
   */
-
 class GraphBuildingTest extends FlatSpec {
 
   "BuildGraph  " should " build a graph " in {
@@ -30,8 +28,8 @@ class GraphBuildingTest extends FlatSpec {
 
     val locations = new File(".").getCanonicalPath + File.separator + "src" + File.separator +
       "main" + File.separator + "resources" + File.separator + "LatLonCityTestData.xml"
-    val cities = loadMapData(locations)
-    val nodes = cities.map(a => new Node(LatLon(a.latitude, a.longitude), a.city, a.state))
+    val cities  = loadMapData(locations)
+    val nodes   = cities.map(a => new Node(LatLon(a.latitude, a.longitude), a.city, a.state))
     var myGraph = new Graph()
     nodes.foreach(n => myGraph.addNode(n))
     myGraph = buildNeighbors(myGraph, distanceBetweenFillups)
@@ -43,10 +41,10 @@ class GraphBuildingTest extends FlatSpec {
     * A DMS value is converted to decimal degrees using the formula (D + M/60 + S/3600).
     */
   def loadMapData(pathNFilename: String): List[CityMapPoint] = {
-    val mainNode = xml.XML.loadFile(pathNFilename).toList
-    val manyNodes = mainNode \\ "cityMapPoint"
+    val mainNode                     = xml.XML.loadFile(pathNFilename).toList
+    val manyNodes                    = mainNode \\ "cityMapPoint"
     var myCities: List[CityMapPoint] = List[CityMapPoint]()
-    val cmp = new CityMapPoint("test", "test", 1D, 2D) // we create a default object to use fromXml
+    val cmp                          = new CityMapPoint("test", "test", 1D, 2D) // we create a default object to use fromXml
     for (myNode <- manyNodes) {
       myCities = cmp.fromXML(myNode) :: myCities
     }
@@ -65,8 +63,10 @@ class GraphBuildingTest extends FlatSpec {
       verts.foreach(b => {
         var dist = 0D
         if (vertices.head.isInstanceOf[LatLon]) {
-          dist = Converter.metersToMiles(Converter.distanceHaversine((b.asInstanceOf[LatLon].lat, b.asInstanceOf[LatLon].lon),
-            (n.vertex.asInstanceOf[LatLon].lat, n.vertex.asInstanceOf[LatLon].lon)))
+          dist = Converter.metersToMiles(
+            Converter.distanceHaversine(
+              (b.asInstanceOf[LatLon].lat, b.asInstanceOf[LatLon].lon),
+              (n.vertex.asInstanceOf[LatLon].lat, n.vertex.asInstanceOf[LatLon].lon)))
         } // else add more types
         if (dist < distanceBetween) {
           val myEdge = new Edge(n.vertex, b)
@@ -76,19 +76,18 @@ class GraphBuildingTest extends FlatSpec {
           n.addAdjacent(b)
         }
       })
-    }
-    )
+    })
     graph
   }
 
   "Test 2 " should "check maximum distance between fillups LA to NY" in {
     val distanceBetweenFillups = 300
-    val myGraph = createGraph(distanceBetweenFillups)
-    val astar = new AStarImpl(myGraph)
-    val losAngeles = myGraph.find(LatLon(33.56, -118.24)).get
-    val newYorkCentralPark = myGraph.find(LatLon(40.47, -73.58)).get
-    val path = astar.compute(losAngeles, newYorkCentralPark).reverse
-    val route = new Route(path)
+    val myGraph                = createGraph(distanceBetweenFillups)
+    val astar                  = new AStarImpl(myGraph)
+    val losAngeles             = myGraph.find(LatLon(33.56, -118.24)).get
+    val newYorkCentralPark     = myGraph.find(LatLon(40.47, -73.58)).get
+    val path                   = astar.compute(losAngeles, newYorkCentralPark).reverse
+    val route                  = new Route(path)
     println(route)
     println("LA to NY: ")
     println("Maximum distance between fillups: " + distanceBetweenFillups)
@@ -99,12 +98,12 @@ class GraphBuildingTest extends FlatSpec {
 
   "Test 3" should "check distance LA to NY" in {
     val distanceBetweenFillups = 145
-    val myGraph = createGraph(distanceBetweenFillups)
+    val myGraph                = createGraph(distanceBetweenFillups)
 
-    val astar = new AStarImpl(myGraph)
-    val losAngeles = myGraph.find(LatLon(33.56, -118.24)).get
+    val astar              = new AStarImpl(myGraph)
+    val losAngeles         = myGraph.find(LatLon(33.56, -118.24)).get
     val newYorkCentralPark = myGraph.find(LatLon(40.47, -73.58)).get
-    val path = astar.compute(losAngeles, newYorkCentralPark).reverse
+    val path               = astar.compute(losAngeles, newYorkCentralPark).reverse
     println("LA to NY: ")
     println("Maximum distance between fillups: " + distanceBetweenFillups)
     val route = new Route(path)

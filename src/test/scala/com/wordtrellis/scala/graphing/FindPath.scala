@@ -7,7 +7,6 @@ import org.scalatest.FlatSpec
   * @author : ToddCook
   *
   */
-
 class FindPath extends FlatSpec {
 
   "Find path" should "print out a graph" in {
@@ -39,6 +38,5 @@ class FindPath extends FlatSpec {
     myGraph.addNode(node5)
     print(myGraph.getNodes.mkString("\n"))
   }
-
 
 }

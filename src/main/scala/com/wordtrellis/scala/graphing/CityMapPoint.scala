@@ -8,15 +8,11 @@ import scala.xml.Elem
   * @author todd
   *
   */
-
-class CityMapPoint(val state: String,
-                   val city: String,
-                   val latitude: Double,
-                   val longitude: Double)
-  extends Ordered[CityMapPoint] {
+class CityMapPoint(val state: String, val city: String, val latitude: Double, val longitude: Double)
+    extends Ordered[CityMapPoint] {
   require(state != null && city != null)
 
-  private var dist: Double = 0
+  private var dist: Double                       = 0
   private var neighborCities: List[CityMapPoint] = List[CityMapPoint]()
 
   def distance_(x: Double): Unit = {
@@ -69,12 +65,16 @@ class CityMapPoint(val state: String,
     // 34ÔøΩ09?22?N 118ÔøΩ7?55?W  when format is determined
     //  var latLon = (node \ "latLon")
     // and convert using: A DMS value is converted to decimal degrees using the formula (D + M/60 + S/3600).
-    new CityMapPoint((node \ "state").text, (node \ "city").text,
+    new CityMapPoint(
+      (node \ "state").text,
+      (node \ "city").text,
       new java.lang.Double((node \ "latLon").text.split(",")(0).trim()).asInstanceOf[Double],
-      new java.lang.Double((node \ "latLon").text.split(",")(1).trim()).asInstanceOf[Double])
+      new java.lang.Double((node \ "latLon").text.split(",")(1).trim()).asInstanceOf[Double]
+    )
   }
 
-  override def toString: String = state + " " + city + " (" + latitude.toString + ", " + longitude.toString + ")"
+  override def toString: String =
+    state + " " + city + " (" + latitude.toString + ", " + longitude.toString + ")"
 
   override def hashCode: Int = {
     var result = state.hashCode

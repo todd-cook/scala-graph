@@ -4,9 +4,8 @@ package com.wordtrellis.scala.graphing
   * @author todd
   *
   */
-
 object Converter {
-  val DEGREES_TO_RADIANS: Double = 180d / scala.math.Pi
+  val DEGREES_TO_RADIANS: Double  = 180d / scala.math.Pi
   val RADIANS_TO_DEGREESS: Double = scala.math.Pi / 180d
 
   /**
@@ -28,20 +27,18 @@ object Converter {
     *                the longitude of point 2 in degrees
     * @return the distance of the points in meters
     */
-  def distanceHaversine(latlon: (Double, Double),
-                        latlon2: (Double, Double)): Double = {
+  def distanceHaversine(latlon: (Double, Double), latlon2: (Double, Double)): Double = {
     // Radius could also be 6,371,000 for average
-    val lat1 = scala.math.toRadians(latlon._1)
-    val lat2 = scala.math.toRadians(latlon2._1)
-    val lon1 = scala.math.toRadians(latlon._2)
-    val lon2 = scala.math.toRadians(latlon2._2)
-    val radius = 6378137.0 - 22000 * scala.math.sin((lat1 + lat2) / 2)
+    val lat1      = scala.math.toRadians(latlon._1)
+    val lat2      = scala.math.toRadians(latlon2._1)
+    val lon1      = scala.math.toRadians(latlon._2)
+    val lon2      = scala.math.toRadians(latlon2._2)
+    val radius    = 6378137.0 - 22000 * scala.math.sin((lat1 + lat2) / 2)
     val sin_dlat2 = scala.math.sin((lat2 - lat1) / 2)
     val sin_dlon2 = scala.math.sin((lon2 - lon1) / 2)
     val a = sin_dlat2 * sin_dlat2 + scala.math.cos(lat1) *
       scala.math.cos(lat2) * sin_dlon2 * sin_dlon2
-    val c = 2 * scala.math.atan2(scala.math.sqrt(a),
-      scala.math.sqrt(1 - a))
+    val c = 2 * scala.math.atan2(scala.math.sqrt(a), scala.math.sqrt(1 - a))
     radius * c
   }
 

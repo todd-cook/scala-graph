@@ -8,12 +8,12 @@ import scala.collection.mutable.ListBuffer
   * @author todd
   *
   */
-
 class AStarImpl(val graph: Graph) {
+
   /**
     * The set of tentative nodes to be evaluated, initially containing the start node
     */
-  val openset = new PriorityQueue[Path]()
+  val openset  = new PriorityQueue[Path]()
   val mindists = new collection.mutable.HashMap[Node, Double]()
 
   val radianConversion: Double = 180d / java.lang.Math.PI
@@ -46,16 +46,15 @@ class AStarImpl(val graph: Graph) {
     * @param path The path to expand.
     */
   def expand(path: Path, goal: Node): Unit = {
-    val p = path.node
+    val p   = path.node
     val min = mindists.get(path.node)
     if (min.isEmpty || min.get.doubleValue > path.f.doubleValue) {
       mindists.put(path.node, path.f)
-    }
-    else {
+    } else {
       return
     }
     val successors: List[Node] = graph.getNeighbors(p)
-    val previousPaths = reconstructPath(path)
+    val previousPaths          = reconstructPath(path)
     for (t <- successors.filter(n => !previousPaths.contains(n))) {
       val newPath = new Path(t)
       newPath.setParent(path)
@@ -66,7 +65,7 @@ class AStarImpl(val graph: Graph) {
 
   def reconstructPath(x: Path): List[Node] = {
     val pathNodes = new ListBuffer[Node]()
-    val n = x.node
+    val n         = x.node
     pathNodes.append(n)
     var pathWalker = x
     while (pathWalker.parent != null) {

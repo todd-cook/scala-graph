@@ -2,7 +2,6 @@ package com.wordtrellis.scala.graphing
 
 import org.scalatest.FlatSpec
 
-
 /**
   * See: http://www.cs.duke.edu/csed/algoprobs/p15.html
   *
@@ -120,37 +119,39 @@ import org.scalatest.FlatSpec
   *
   * @author : ToddCook
   */
-
 class CircuitTest extends FlatSpec {
 
   def howLong(connects: List[String], costs: List[String]): Any = {
     val g = new Graph()
-    Iterator.range(0, connects.length).foreach(x => {
-      val n = new Node(Point(x))
-      Iterator.range(0, connects(x).split(" ").length).foreach(
-        y => {
-          // add the edges since they will be used to find the cost
-          // note: the schlocky data structure of string arrays is horribly buggy,
-          // hence we must do defensive checking such as this for nodes without adjacents
-          if (connects(x).split(" ")(y).length > 0) {
-            val e = new Edge(Point(x), Point(connects(x).split(" ")(y).toInt))
-            e.setCost(costs(x).split(" ")(y).toDouble)
-            n.addEdge(e)
-            // add adjacents, since they will be used for navigation
-            // TODO consider condensing
-            val v = Point(connects(x).split(" ")(y).toInt)
-            n.addAdjacent(v)
-          }
-        })
-      g.addNode(n)
-    })
+    Iterator
+      .range(0, connects.length)
+      .foreach(x => {
+        val n = new Node(Point(x))
+        Iterator
+          .range(0, connects(x).split(" ").length)
+          .foreach(y => {
+            // add the edges since they will be used to find the cost
+            // note: the schlocky data structure of string arrays is horribly buggy,
+            // hence we must do defensive checking such as this for nodes without adjacents
+            if (connects(x).split(" ")(y).length > 0) {
+              val e = new Edge(Point(x), Point(connects(x).split(" ")(y).toInt))
+              e.setCost(costs(x).split(" ")(y).toDouble)
+              n.addEdge(e)
+              // add adjacents, since they will be used for navigation
+              // TODO consider condensing
+              val v = Point(connects(x).split(" ")(y).toInt)
+              n.addAdjacent(v)
+            }
+          })
+        g.addNode(n)
+      })
     println("graph is:")
     println(g)
     println("*********")
-    val longestPaths = new LongestPaths(g)
-    val paths = longestPaths.find()
-    val scores = paths.map(z => g.totalCost(z))
-    val highScore = scores.sortWith(_ > _).head
+    val longestPaths   = new LongestPaths(g)
+    val paths          = longestPaths.find()
+    val scores         = paths.map(z => g.totalCost(z))
+    val highScore      = scores.sortWith(_ > _).head
     val highScoreIndex = scores.indexOf(highScore)
     println("Longest path is: " + paths(highScoreIndex))
     //println("Longest path is: " +  longest)
@@ -159,40 +160,39 @@ class CircuitTest extends FlatSpec {
     highScore
   }
 
-
   "Test 1 " should "check the path length" in {
-    assert(12.0 == howLong(List("1 2", "2", ""),
-      List("5 3", "7", "")), 0.01)
+    assert(12.0 == howLong(List("1 2", "2", ""), List("5 3", "7", "")), 0.01)
   }
-
 
   "Test 2 " should "check the path length" in {
     //The longest path goes from 0-1-2-3-4-5 for a cost of 10.
-    assert(10.0 == howLong(
-      List("1 2 3 4 5", "2 3 4 5", "3 4 5", "4 5", "5", ""),
-      List("2 2 2 2 2", "2 2 2 2", "2 2 2", "2 2", "2", "")), 0.01)
+    assert(10.0 == howLong(List("1 2 3 4 5", "2 3 4 5", "3 4 5", "4 5", "5", ""),
+                           List("2 2 2 2 2", "2 2 2 2", "2 2 2", "2 2", "2", "")),
+           0.01)
   }
   "Test 3" should "check the path length" in {
     // 	The 0-1-2-3 path costs 6 whereas the 4-5-6-7 path costs 9
     assert(9.0 == howLong(List("1", "2", "3", "", "5", "6", "7", ""),
-      List("2", "2", "2", "", "3", "3", "3", "")), 0.01)
+                          List("2", "2", "2", "", "3", "3", "3", "")),
+           0.01)
   }
 
-
   "Test 4 " should "check the path length" in {
-    assert(22.0 == howLong(
-      List("", "2 3 5", "4 5", "5 6", "7", "7 8", "8 9", "10",
-        "10 11 12", "11", "12", "12", ""),
-      List("", "3 2 9", "2 4", "6 9", "3", "1 2", "1 2", "5",
-        "5 6 9", "2", "5", "3", "")), 0.01)
+    assert(
+      22.0 == howLong(
+        List("", "2 3 5", "4 5", "5 6", "7", "7 8", "8 9", "10", "10 11 12", "11", "12", "12", ""),
+        List("", "3 2 9", "2 4", "6 9", "3", "1 2", "1 2", "5", "5 6 9", "2", "5", "3", "")
+      ),
+      0.01
+    )
   }
 
   "Test 5 " should "check the path length" in {
     //NOTE: gives 103, not 105
     assert(103.0 == howLong(
-      List("", "2 3", "3 4 5", "4 6", "5 6", "7", "5 7", ""),
-      List("", "30 50", "19 6 40", "12 10", "35 23", "8", "11 20", "")
-    ), 0.01)
+             List("", "2 3", "3 4 5", "4 6", "5 6", "7", "5 7", ""),
+             List("", "30 50", "19 6 40", "12 10", "35 23", "8", "11 20", "")
+           ),
+           0.01)
   }
 }
-
